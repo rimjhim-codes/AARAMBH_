@@ -1,0 +1,52 @@
+{
+  "name": "aarambh-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "build": "tsc",
+    "test": "node --require ts-node/register src/middleware/test-runner.ts",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.36",
+    "@langchain/openai": "^0.4.5",
+    "@pinecone-database/pinecone": "^4.1.0",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.5.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "ioredis": "^5.4.2",
+    "jsonwebtoken": "^9.0.2",
+    "jszip": "^3.10.1",
+    "mammoth": "^1.12.1",
+    "mongoose": "^8.9.0",
+    "multer": "^1.4.5-lts.1",
+    "onnxruntime-node": "^1.29.0",
+    "openid-client": "^5.6.5",
+    "otplib": "^12.0.1",
+    "pdf-parse": "^1.1.1",
+    "qrcode": "^1.5.4",
+    "resend": "^4.1.1",
+    "socket.io": "^4.8.1",
+    "youtube-transcript": "^1.2.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cookie-parser": "^1.4.8",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.10.2",
+    "@types/pdf-parse": "^1.1.5",
+    "@types/qrcode": "^1.5.6",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.2"
+  }
+}

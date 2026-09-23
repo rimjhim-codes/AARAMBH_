@@ -1,0 +1,6 @@
+xgboost>=2.0.3
+pandas>=2.2.0
+pymongo>=4.6.1
+scikit-learn>=1.4.0
+onnxmltools>=1.11.2
+onnx>=1.15.0

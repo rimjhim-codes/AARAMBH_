@@ -1,0 +1,32 @@
+{
+  "model_type": "XGBoost",
+  "objective": "rank:pairwise",
+  "dataset_type": "SYNTHETIC_DEVELOPMENT_DATA",
+  "training_sample_count": 10500,
+  "timestamp": "2026-09-13T14:21:01.951330",
+  "model_version": "0.1.0-synthetic",
+  "feature_ordering": [
+    "user_currentLevel",
+    "user_requiredLevel",
+    "user_skillGap",
+    "user_quizAttempts",
+    "user_averageQuizPercentage",
+    "course_durationHours",
+    "context_relevanceScore",
+    "user_jobRole_Director",
+    "user_jobRole_Manager",
+    "user_jobRole_Specialist",
+    "user_department_HR",
+    "user_department_IT",
+    "user_department_Operations",
+    "user_department_Statistics",
+    "course_difficulty_beginner",
+    "course_difficulty_intermediate",
+    "course_provider_NSSTA",
+    "course_provider_iGOT"
+  ],
+  "evaluation_metrics": {
+    "ml_ndcg8": 0.58949009987244,
+    "ml_mrr": 0.7478006017221703
+  }
+}

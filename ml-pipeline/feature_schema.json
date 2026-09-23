@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "dataset_type": "SYNTHETIC_DEVELOPMENT_DATA",
+  "features": [
+    {"name": "user_currentLevel", "type": "numerical"},
+    {"name": "user_requiredLevel", "type": "numerical"},
+    {"name": "user_skillGap", "type": "numerical"},
+    {"name": "user_quizAttempts", "type": "numerical"},
+    {"name": "user_averageQuizPercentage", "type": "numerical"},
+    {"name": "user_jobRole", "type": "categorical"},
+    {"name": "user_department", "type": "categorical"},
+    {"name": "course_difficulty", "type": "categorical"},
+    {"name": "course_durationHours", "type": "numerical"},
+    {"name": "course_provider", "type": "categorical"},
+    {"name": "context_relevanceScore", "type": "numerical"}
+  ]
+}

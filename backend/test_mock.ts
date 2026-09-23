@@ -1,0 +1,1 @@
+import { CompetencyAssessmentModel } from './src/models/sih/SihModels'; console.log(typeof CompetencyAssessmentModel.find); const original = CompetencyAssessmentModel.find; CompetencyAssessmentModel.find = () => 'mocked' as any; console.log(CompetencyAssessmentModel.find()); CompetencyAssessmentModel.find = original;

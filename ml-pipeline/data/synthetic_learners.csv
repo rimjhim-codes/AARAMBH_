@@ -1,0 +1,1001 @@
+userId,user_jobRole,user_department,user_primaryGapDomain,user_currentLevel,user_requiredLevel,user_skillGap,user_quizAttempts,user_averageQuizPercentage
+USER_0,Analyst,Operations,Communication,2,5,3,5,93.97884382870075
+USER_1,Director,Operations,Statistics,4,5,1,5,76.34648916141323
+USER_2,Analyst,IT,Data Science,2,3,1,10,45.27325747240863
+USER_3,Director,Statistics,Project Management,4,5,1,2,71.47068337421528
+USER_4,Manager,IT,Data Engineering,2,5,3,10,91.93042755363882
+USER_5,Manager,HR,Project Management,1,4,3,1,73.40577358083578
+USER_6,Specialist,Operations,Statistics,1,5,4,5,98.07964399025406
+USER_7,Analyst,IT,Communication,4,5,1,16,71.790401390867
+USER_8,Specialist,Operations,Data Science,2,4,2,10,95.92086053541604
+USER_9,Analyst,Finance,Data Engineering,3,5,2,9,72.91618707628919
+USER_10,Specialist,Finance,Statistics,1,4,3,19,55.27843928582583
+USER_11,Analyst,HR,Data Engineering,1,3,2,14,68.2945713130095
+USER_12,Analyst,Operations,Leadership,3,4,1,11,64.51109757615501
+USER_13,Manager,IT,Data Engineering,1,5,4,2,43.98977604200665
+USER_14,Director,Statistics,Project Management,2,3,1,4,52.09763920286467
+USER_15,Analyst,Operations,Project Management,1,5,4,18,79.911833241772
+USER_16,Analyst,Finance,Statistics,1,4,3,17,88.99596636829463
+USER_17,Manager,Statistics,Project Management,1,5,4,14,74.64917625436755
+USER_18,Director,Finance,Data Science,1,3,2,13,43.997146743449015
+USER_19,Manager,HR,Leadership,3,5,2,6,83.8329482085581
+USER_20,Analyst,Statistics,Statistics,3,5,2,19,84.48765466834273
+USER_21,Analyst,Statistics,Leadership,2,3,1,4,86.71431634304506
+USER_22,Manager,Finance,Data Science,2,4,2,4,92.60593820570497
+USER_23,Analyst,IT,Data Science,2,4,2,12,47.649319739918944
+USER_24,Director,IT,Data Engineering,1,3,2,11,86.3129188358947
+USER_25,Director,IT,Leadership,3,5,2,3,82.97074448397713
+USER_26,Director,Finance,Leadership,2,3,1,7,75.00350768596724
+USER_27,Specialist,Finance,Statistics,3,4,1,12,48.34697164858371
+USER_28,Director,IT,Statistics,1,3,2,10,95.92709694901674
+USER_29,Analyst,Finance,Communication,2,3,1,16,74.57730161000879
+USER_30,Director,Operations,Statistics,2,3,1,13,96.06202088614089
+USER_31,Analyst,Operations,Project Management,3,5,2,13,51.17925276964724
+USER_32,Manager,HR,Data Science,1,3,2,7,76.47366362765553
+USER_33,Manager,IT,Data Science,1,3,2,8,46.85603800334127
+USER_34,Director,Finance,Communication,2,3,1,6,60.81719211377366
+USER_35,Specialist,HR,Statistics,1,5,4,11,94.76496777274772
+USER_36,Specialist,Operations,Project Management,1,3,2,0,61.74363394699799
+USER_37,Specialist,Finance,Leadership,2,4,2,16,50.682158012185084
+USER_38,Specialist,IT,Communication,1,3,2,7,70.13170061987455
+USER_39,Director,HR,Data Science,2,3,1,18,60.96321994295998
+USER_40,Analyst,Operations,Project Management,1,3,2,15,73.89046799575698
+USER_41,Director,Finance,Statistics,2,3,1,1,72.06735347543481
+USER_42,Manager,HR,Data Science,2,4,2,3,50.91568782971627
+USER_43,Director,Finance,Data Engineering,3,5,2,9,93.84582458913306
+USER_44,Director,IT,Statistics,1,3,2,17,92.01962560069141
+USER_45,Director,HR,Data Science,1,3,2,7,46.24651491907443
+USER_46,Analyst,IT,Data Engineering,3,5,2,14,83.2487857786304
+USER_47,Director,IT,Leadership,2,4,2,19,80.08510819423877
+USER_48,Director,Finance,Data Engineering,3,4,1,6,77.99444649465764
+USER_49,Director,Operations,Data Science,1,5,4,18,74.98249365818154
+USER_50,Analyst,Operations,Communication,2,4,2,19,60.1519514289901
+USER_51,Director,IT,Statistics,3,5,2,19,77.44893447094805
+USER_52,Manager,Operations,Project Management,1,4,3,11,53.170631504857525
+USER_53,Manager,HR,Statistics,1,4,3,13,68.26392716162886
+USER_54,Analyst,Statistics,Data Science,3,4,1,7,81.93075118965427
+USER_55,Manager,HR,Data Science,1,5,4,13,99.06413084221313
+USER_56,Manager,Operations,Statistics,1,3,2,10,89.35503255470044
+USER_57,Manager,Finance,Data Engineering,1,4,3,16,64.31488528166133
+USER_58,Analyst,Finance,Project Management,3,4,1,5,83.93107470754374
+USER_59,Analyst,Finance,Statistics,1,3,2,12,90.28641779069775
+USER_60,Manager,Finance,Data Engineering,2,4,2,10,51.06225524073779
+USER_61,Analyst,Operations,Data Engineering,2,5,3,10,57.32162420624199
+USER_62,Director,HR,Communication,1,3,2,1,63.79896238312325
+USER_63,Specialist,Statistics,Project Management,1,4,3,3,72.39056673449161
+USER_64,Director,Statistics,Leadership,4,5,1,12,49.28032845299417
+USER_65,Analyst,Statistics,Data Science,2,4,2,8,61.09240966805313
+USER_66,Director,Finance,Data Science,1,3,2,6,44.556004622177326
+USER_67,Specialist,HR,Statistics,2,3,1,5,75.41384001214523
+USER_68,Director,HR,Leadership,2,3,1,16,48.209117855137684
+USER_69,Analyst,IT,Statistics,1,3,2,15,92.37675015258449
+USER_70,Analyst,Statistics,Data Engineering,1,3,2,17,69.36549781858844
+USER_71,Analyst,Finance,Leadership,1,4,3,14,42.64992626260601
+USER_72,Analyst,Finance,Data Science,2,5,3,6,42.03675871514793
+USER_73,Director,Finance,Data Engineering,1,5,4,17,84.70387288721322
+USER_74,Manager,HR,Communication,3,5,2,9,78.67279903754934
+USER_75,Director,IT,Project Management,4,5,1,12,44.61719209775255
+USER_76,Manager,IT,Data Engineering,4,5,1,6,58.91742026983662
+USER_77,Analyst,Operations,Data Science,2,3,1,17,71.21008659272391
+USER_78,Manager,HR,Data Engineering,2,4,2,9,99.42047880050663
+USER_79,Analyst,Finance,Leadership,1,5,4,2,44.20178234484826
+USER_80,Analyst,Operations,Project Management,2,3,1,11,77.6503277931022
+USER_81,Manager,Statistics,Communication,1,5,4,6,71.35115149807139
+USER_82,Director,Operations,Data Science,1,4,3,13,57.82017258729293
+USER_83,Analyst,Statistics,Statistics,2,4,2,15,41.07243608400483
+USER_84,Director,Statistics,Project Management,1,5,4,3,53.09523327190385
+USER_85,Analyst,HR,Statistics,1,3,2,5,98.9398309048049
+USER_86,Analyst,Finance,Project Management,2,5,3,6,99.4701175682186
+USER_87,Manager,Operations,Leadership,1,3,2,18,70.76131066099052
+USER_88,Analyst,Finance,Statistics,2,5,3,8,51.18629572865527
+USER_89,Analyst,Statistics,Leadership,1,4,3,8,95.66513699171279
+USER_90,Director,Finance,Statistics,1,3,2,2,85.49430854224548
+USER_91,Director,HR,Project Management,2,3,1,5,77.37624297610712
+USER_92,Analyst,IT,Data Engineering,1,5,4,13,91.60760898507542
+USER_93,Director,HR,Leadership,2,3,1,8,42.662599811994205
+USER_94,Director,Statistics,Statistics,1,4,3,4,84.11275927140716
+USER_95,Specialist,HR,Statistics,2,5,3,4,42.92701490039038
+USER_96,Specialist,Operations,Statistics,1,4,3,4,99.48852010870289
+USER_97,Manager,Operations,Statistics,2,3,1,18,89.48085795550895
+USER_98,Analyst,Statistics,Statistics,1,5,4,5,71.2756187308249
+USER_99,Director,Statistics,Communication,1,3,2,12,90.22079970182033
+USER_100,Specialist,HR,Data Science,2,3,1,5,51.35329238710035
+USER_101,Manager,Statistics,Data Engineering,1,5,4,18,92.7442888136879
+USER_102,Analyst,Finance,Statistics,3,4,1,3,73.37090410238542
+USER_103,Director,Finance,Data Engineering,2,3,1,12,77.01561510254453
+USER_104,Specialist,Finance,Data Science,1,3,2,12,86.79072370906862
+USER_105,Director,Finance,Project Management,2,5,3,8,97.77952023153968
+USER_106,Analyst,Operations,Communication,2,5,3,3,50.425208518454006
+USER_107,Specialist,Statistics,Communication,3,4,1,11,44.041036088126305
+USER_108,Manager,Finance,Statistics,1,4,3,17,92.29220836914257
+USER_109,Specialist,Operations,Data Engineering,3,5,2,11,41.47521498752809
+USER_110,Director,HR,Leadership,2,3,1,10,80.9977225963903
+USER_111,Manager,Operations,Statistics,2,4,2,3,65.57087813415838
+USER_112,Director,Operations,Data Engineering,1,3,2,10,53.24617676732562
+USER_113,Specialist,HR,Statistics,2,5,3,2,97.05181373502462
+USER_114,Director,Operations,Communication,1,3,2,19,63.855663877767654
+USER_115,Director,Statistics,Data Science,1,3,2,5,53.79727635346517
+USER_116,Analyst,Statistics,Data Engineering,4,5,1,11,73.76501718060297
+USER_117,Specialist,Statistics,Communication,4,5,1,16,45.4698694243715
+USER_118,Specialist,HR,Leadership,2,4,2,11,41.95157076947511
+USER_119,Specialist,Statistics,Communication,3,4,1,13,75.89963590734561
+USER_120,Specialist,Statistics,Project Management,2,3,1,1,87.85354603823129
+USER_121,Specialist,Operations,Leadership,1,3,2,17,80.82739758155952
+USER_122,Director,HR,Statistics,3,4,1,12,85.42355605667339
+USER_123,Specialist,HR,Communication,1,4,3,18,46.29581070509049
+USER_124,Specialist,IT,Data Science,2,3,1,19,60.76099405869037
+USER_125,Analyst,Statistics,Statistics,2,3,1,8,61.037615872550845
+USER_126,Manager,Finance,Data Science,2,3,1,5,74.05245089569348
+USER_127,Director,Finance,Project Management,2,4,2,9,50.04895493554419
+USER_128,Director,HR,Data Science,1,5,4,5,75.68659824261616
+USER_129,Specialist,Statistics,Data Science,3,5,2,17,96.11210891796759
+USER_130,Director,HR,Statistics,2,4,2,6,79.64920709795504
+USER_131,Manager,Finance,Communication,2,4,2,2,42.445246365548364
+USER_132,Director,Finance,Communication,2,4,2,11,54.82619404060878
+USER_133,Director,Finance,Data Engineering,1,3,2,18,98.55191534914788
+USER_134,Analyst,Operations,Communication,2,3,1,18,49.70035264880816
+USER_135,Manager,Operations,Project Management,3,4,1,8,69.59661080702797
+USER_136,Director,Operations,Communication,3,4,1,14,55.46097331067282
+USER_137,Analyst,Finance,Communication,2,3,1,19,77.72588909235671
+USER_138,Analyst,HR,Communication,2,4,2,8,66.31692515137543
+USER_139,Director,Finance,Data Engineering,2,4,2,3,65.30325561240733
+USER_140,Manager,Operations,Statistics,3,5,2,11,63.03082911206778
+USER_141,Analyst,HR,Statistics,1,3,2,7,64.3186109851446
+USER_142,Specialist,Finance,Project Management,2,5,3,4,91.26310560217475
+USER_143,Manager,IT,Data Engineering,2,3,1,14,75.57510398990692
+USER_144,Manager,Statistics,Data Science,3,4,1,1,91.47917523536235
+USER_145,Specialist,IT,Data Engineering,1,5,4,3,98.18926270471269
+USER_146,Manager,Finance,Leadership,3,4,1,9,80.16342408756168
+USER_147,Specialist,HR,Data Science,1,3,2,11,82.40663301312675
+USER_148,Analyst,Operations,Project Management,1,3,2,11,68.47785254498883
+USER_149,Manager,IT,Data Science,3,5,2,19,56.18497669101937
+USER_150,Analyst,IT,Statistics,1,3,2,0,47.32659484060161
+USER_151,Director,Operations,Project Management,1,3,2,0,70.43408852130355
+USER_152,Manager,HR,Project Management,1,4,3,10,41.04278741112878
+USER_153,Analyst,HR,Data Science,1,4,3,17,60.559209287254916
+USER_154,Manager,Operations,Project Management,4,5,1,19,82.2808457641988
+USER_155,Manager,Operations,Statistics,4,5,1,0,83.84976849225258
+USER_156,Director,Finance,Data Engineering,1,4,3,0,90.28691737888661
+USER_157,Manager,Finance,Statistics,2,5,3,17,77.07083441207283
+USER_158,Analyst,IT,Data Science,4,5,1,0,76.03657255277417
+USER_159,Analyst,Statistics,Project Management,2,3,1,1,99.96482354623998
+USER_160,Analyst,Statistics,Project Management,1,5,4,15,85.14566575693435
+USER_161,Analyst,HR,Data Engineering,1,3,2,3,79.03069886750295
+USER_162,Director,Finance,Project Management,2,4,2,17,92.67346954247965
+USER_163,Analyst,Statistics,Leadership,1,3,2,14,77.81252489974865
+USER_164,Analyst,HR,Statistics,3,5,2,0,54.252647852459646
+USER_165,Manager,Finance,Data Science,4,5,1,10,76.20691560288267
+USER_166,Manager,Statistics,Project Management,2,4,2,2,72.5418198987843
+USER_167,Analyst,Finance,Statistics,1,4,3,11,48.93951135821168
+USER_168,Specialist,HR,Data Engineering,4,5,1,15,72.9648543058272
+USER_169,Director,Operations,Project Management,3,4,1,10,40.45377249868853
+USER_170,Specialist,HR,Data Engineering,1,5,4,18,43.61604341737365
+USER_171,Director,Finance,Data Engineering,2,3,1,13,69.15230555117954
+USER_172,Analyst,IT,Data Engineering,3,4,1,2,74.85592319576787
+USER_173,Manager,Statistics,Statistics,2,4,2,12,64.8129460915211
+USER_174,Director,IT,Data Science,3,4,1,9,87.9868657254413
+USER_175,Manager,IT,Data Science,1,4,3,19,69.01273880319548
+USER_176,Specialist,Operations,Project Management,2,3,1,9,46.73826066467315
+USER_177,Manager,Operations,Data Engineering,2,5,3,8,87.62463102283098
+USER_178,Analyst,Finance,Statistics,1,4,3,7,86.19668201510073
+USER_179,Analyst,IT,Data Science,3,4,1,17,83.91748405513808
+USER_180,Analyst,Finance,Communication,2,5,3,18,77.43155948059439
+USER_181,Analyst,Statistics,Data Science,2,5,3,2,92.15557747906315
+USER_182,Analyst,Operations,Data Science,1,5,4,14,53.814770105672196
+USER_183,Manager,Operations,Leadership,1,4,3,1,56.47241524000752
+USER_184,Manager,Operations,Data Engineering,3,4,1,6,83.47101108391709
+USER_185,Specialist,HR,Leadership,4,5,1,3,83.46032902772447
+USER_186,Manager,IT,Statistics,1,5,4,7,78.71739025154301
+USER_187,Specialist,Statistics,Communication,1,5,4,5,61.29977834991624
+USER_188,Specialist,Finance,Communication,1,3,2,4,44.195896342566044
+USER_189,Director,IT,Data Engineering,2,4,2,2,51.41949176914407
+USER_190,Manager,Statistics,Statistics,4,5,1,2,83.83903061435477
+USER_191,Specialist,Operations,Project Management,2,4,2,12,78.09760273546199
+USER_192,Manager,Statistics,Data Science,4,5,1,15,40.074200785564564
+USER_193,Manager,Operations,Communication,4,5,1,18,49.14496079982504
+USER_194,Manager,Operations,Data Engineering,1,3,2,19,77.41514128016559
+USER_195,Analyst,Operations,Statistics,4,5,1,15,70.41030590922895
+USER_196,Manager,IT,Communication,1,4,3,0,53.64143800576593
+USER_197,Analyst,Finance,Data Engineering,1,4,3,8,70.5834548051019
+USER_198,Manager,IT,Leadership,3,4,1,17,70.94076566178987
+USER_199,Director,IT,Leadership,3,4,1,4,63.46256578349046
+USER_200,Manager,Finance,Communication,1,5,4,12,62.837397608594806
+USER_201,Manager,HR,Statistics,2,4,2,15,52.71894945413431
+USER_202,Analyst,HR,Project Management,1,3,2,1,49.227468980081866
+USER_203,Specialist,Finance,Leadership,2,4,2,9,89.34883381806165
+USER_204,Analyst,IT,Data Science,2,3,1,13,48.35188147705179
+USER_205,Specialist,HR,Project Management,1,4,3,2,63.919781666338785
+USER_206,Manager,Operations,Data Science,1,3,2,1,70.36645329080505
+USER_207,Specialist,IT,Communication,2,3,1,12,96.18695043301963
+USER_208,Specialist,Operations,Communication,1,4,3,10,77.17527729386978
+USER_209,Director,HR,Communication,3,5,2,4,86.84569516410639
+USER_210,Manager,HR,Statistics,2,3,1,17,43.466833659782
+USER_211,Analyst,HR,Data Science,3,5,2,8,86.96176244464895
+USER_212,Specialist,IT,Project Management,3,5,2,0,70.56532768898738
+USER_213,Specialist,IT,Data Science,1,3,2,19,79.34342035369937
+USER_214,Director,Operations,Project Management,2,5,3,19,64.28790574511198
+USER_215,Director,IT,Data Engineering,3,5,2,13,50.61322870863126
+USER_216,Manager,Finance,Data Engineering,1,4,3,5,55.58879252470206
+USER_217,Specialist,Operations,Statistics,2,5,3,0,59.41002369468843
+USER_218,Analyst,Operations,Statistics,1,4,3,17,43.87700079064517
+USER_219,Analyst,IT,Communication,1,3,2,10,67.26264007359765
+USER_220,Manager,IT,Communication,1,5,4,1,59.480555613403595
+USER_221,Analyst,Operations,Communication,3,4,1,19,91.57391389881676
+USER_222,Analyst,Statistics,Statistics,2,3,1,8,46.128971779452286
+USER_223,Manager,IT,Data Science,1,3,2,15,55.28023732276307
+USER_224,Specialist,IT,Statistics,2,4,2,7,67.68864787748404
+USER_225,Specialist,HR,Leadership,2,5,3,7,53.61788166192185
+USER_226,Analyst,HR,Data Science,4,5,1,4,84.24602612328914
+USER_227,Specialist,Operations,Data Science,1,5,4,7,45.087520962748194
+USER_228,Director,HR,Leadership,1,3,2,16,97.39008389796881
+USER_229,Manager,IT,Data Engineering,3,4,1,10,98.24499746024021
+USER_230,Specialist,HR,Leadership,3,5,2,10,64.7278558157663
+USER_231,Specialist,Finance,Data Engineering,2,4,2,5,44.95705980755612
+USER_232,Specialist,Statistics,Communication,1,3,2,8,62.91637837917375
+USER_233,Specialist,IT,Statistics,1,5,4,13,44.1552583771516
+USER_234,Manager,Finance,Data Science,3,4,1,9,87.92285149927447
+USER_235,Manager,Operations,Communication,4,5,1,15,88.70618728540825
+USER_236,Manager,Statistics,Communication,3,4,1,7,75.91189454106194
+USER_237,Director,IT,Data Science,2,3,1,17,96.58455026468246
+USER_238,Specialist,HR,Project Management,2,3,1,13,40.76289339921361
+USER_239,Specialist,Statistics,Data Engineering,2,5,3,11,95.13559201837327
+USER_240,Manager,Operations,Statistics,1,3,2,7,84.89151435873985
+USER_241,Specialist,HR,Project Management,3,5,2,10,56.15987789812151
+USER_242,Manager,Finance,Communication,1,3,2,14,45.512253262602684
+USER_243,Director,IT,Statistics,3,5,2,12,64.80498695771568
+USER_244,Specialist,HR,Data Engineering,1,3,2,18,49.09416229526042
+USER_245,Director,Statistics,Project Management,4,5,1,4,49.60429809727438
+USER_246,Specialist,Operations,Statistics,1,4,3,2,99.5085970809618
+USER_247,Director,Statistics,Leadership,2,4,2,9,84.54088303435054
+USER_248,Director,Finance,Project Management,3,5,2,8,62.51559426655998
+USER_249,Manager,Finance,Data Science,2,4,2,11,84.74402696387392
+USER_250,Analyst,Statistics,Project Management,2,3,1,19,59.615896980284745
+USER_251,Manager,HR,Leadership,3,5,2,4,47.48284341468343
+USER_252,Director,Finance,Data Engineering,2,4,2,4,79.78252027002954
+USER_253,Manager,IT,Project Management,1,5,4,12,45.57943838938793
+USER_254,Director,Operations,Communication,2,3,1,15,53.52632532782163
+USER_255,Manager,Finance,Communication,2,4,2,18,56.18924320769286
+USER_256,Director,HR,Communication,1,5,4,12,84.75551252882047
+USER_257,Director,IT,Statistics,1,4,3,18,66.41193987732943
+USER_258,Analyst,Statistics,Communication,3,4,1,17,62.28532011238275
+USER_259,Director,HR,Data Science,4,5,1,12,50.40880445595744
+USER_260,Director,IT,Project Management,3,5,2,10,84.39918320113671
+USER_261,Specialist,Operations,Statistics,1,3,2,9,60.07067732451593
+USER_262,Manager,Operations,Data Engineering,1,5,4,5,71.08472597432893
+USER_263,Director,Finance,Data Engineering,1,5,4,2,65.7794087643361
+USER_264,Specialist,Operations,Leadership,1,3,2,19,88.15859858774263
+USER_265,Manager,Finance,Statistics,2,3,1,3,42.99052166697649
+USER_266,Specialist,Statistics,Statistics,1,5,4,3,85.93077393946658
+USER_267,Director,IT,Project Management,1,4,3,3,40.804157585929936
+USER_268,Manager,IT,Communication,2,4,2,6,54.81872794431999
+USER_269,Specialist,Finance,Communication,2,4,2,12,56.0883412057308
+USER_270,Specialist,HR,Data Science,2,3,1,19,77.18196641196494
+USER_271,Specialist,Finance,Leadership,1,3,2,0,86.31146357089727
+USER_272,Manager,HR,Project Management,3,5,2,19,47.67929251201518
+USER_273,Specialist,Statistics,Data Engineering,2,4,2,4,98.8778254298348
+USER_274,Director,Finance,Statistics,1,3,2,4,73.9198152742966
+USER_275,Analyst,IT,Leadership,1,5,4,8,41.32210961785025
+USER_276,Analyst,Statistics,Data Engineering,2,5,3,16,98.83100932006636
+USER_277,Director,Statistics,Data Engineering,2,4,2,6,82.47010583378612
+USER_278,Manager,Finance,Data Science,2,4,2,0,65.71783281822854
+USER_279,Specialist,Statistics,Data Engineering,2,4,2,1,45.853750614357985
+USER_280,Manager,IT,Leadership,1,3,2,14,70.75015892621991
+USER_281,Director,HR,Communication,2,5,3,16,52.08182692815846
+USER_282,Specialist,IT,Data Engineering,3,4,1,14,52.29287644904275
+USER_283,Specialist,IT,Data Engineering,2,5,3,13,54.32777268289236
+USER_284,Analyst,Finance,Data Science,2,4,2,2,94.55321235169362
+USER_285,Manager,IT,Data Science,3,4,1,17,45.604478318517735
+USER_286,Specialist,IT,Data Engineering,3,5,2,9,45.64216626605598
+USER_287,Analyst,Operations,Communication,2,3,1,7,87.87484957695364
+USER_288,Specialist,IT,Project Management,2,4,2,5,87.59568102629527
+USER_289,Director,Finance,Leadership,1,3,2,10,99.01128836291332
+USER_290,Specialist,Operations,Data Science,1,3,2,15,49.12625699333637
+USER_291,Manager,HR,Communication,2,4,2,8,88.21621212649211
+USER_292,Analyst,Operations,Project Management,4,5,1,12,59.38067190317283
+USER_293,Director,HR,Communication,2,4,2,4,73.58534101830296
+USER_294,Manager,Finance,Data Science,2,3,1,4,98.4074433985704
+USER_295,Specialist,Finance,Communication,1,3,2,5,82.61456791739869
+USER_296,Manager,IT,Communication,1,3,2,11,58.84364769956392
+USER_297,Specialist,IT,Statistics,3,4,1,15,82.72084121984685
+USER_298,Analyst,HR,Statistics,1,4,3,19,94.32159245667222
+USER_299,Manager,HR,Leadership,2,5,3,15,74.63498384611678
+USER_300,Director,HR,Data Science,2,3,1,2,41.86693599504146
+USER_301,Director,IT,Data Engineering,2,4,2,14,50.49288623055756
+USER_302,Director,HR,Data Science,2,3,1,3,91.98319085508052
+USER_303,Analyst,HR,Project Management,3,5,2,13,85.55492398365057
+USER_304,Analyst,HR,Communication,1,3,2,12,93.93084329081483
+USER_305,Director,HR,Leadership,2,3,1,1,66.82333262838553
+USER_306,Specialist,HR,Project Management,1,4,3,18,98.60801971063955
+USER_307,Analyst,Statistics,Project Management,4,5,1,7,84.39424724601582
+USER_308,Manager,Statistics,Statistics,3,4,1,18,98.36657937352516
+USER_309,Analyst,IT,Leadership,3,4,1,19,98.90792159563766
+USER_310,Director,IT,Project Management,1,5,4,18,92.36523037396768
+USER_311,Analyst,IT,Project Management,1,4,3,7,55.79894702519201
+USER_312,Specialist,Statistics,Data Science,2,3,1,13,75.90144905786553
+USER_313,Manager,Statistics,Leadership,1,3,2,3,43.86947627495005
+USER_314,Analyst,Statistics,Communication,1,4,3,15,54.370610194572286
+USER_315,Director,Finance,Data Science,3,4,1,4,55.138434990364395
+USER_316,Analyst,Operations,Data Engineering,4,5,1,8,94.57760916619554
+USER_317,Manager,Statistics,Communication,1,5,4,7,71.04678110530247
+USER_318,Director,Statistics,Communication,2,4,2,18,93.55139739729077
+USER_319,Director,IT,Data Engineering,1,4,3,18,54.246008102488375
+USER_320,Director,IT,Communication,1,4,3,1,56.29412588506239
+USER_321,Analyst,Statistics,Leadership,1,5,4,17,61.711185592308325
+USER_322,Director,HR,Communication,2,4,2,9,98.29196145406304
+USER_323,Director,HR,Data Engineering,1,3,2,15,56.84099293095846
+USER_324,Manager,Statistics,Data Science,1,3,2,13,42.96981120962
+USER_325,Director,Operations,Leadership,2,3,1,16,53.11059006124782
+USER_326,Manager,Statistics,Statistics,2,5,3,8,89.00093052704308
+USER_327,Specialist,Operations,Data Science,1,3,2,18,92.7917606416696
+USER_328,Specialist,HR,Data Science,1,5,4,13,99.56901033994421
+USER_329,Analyst,Statistics,Data Engineering,2,5,3,7,65.30969071232988
+USER_330,Analyst,IT,Communication,1,3,2,15,57.8036584662454
+USER_331,Manager,Operations,Statistics,4,5,1,7,91.77283017474474
+USER_332,Analyst,Statistics,Project Management,2,5,3,14,92.29586363729383
+USER_333,Analyst,IT,Statistics,2,4,2,17,45.53708752439543
+USER_334,Specialist,Finance,Communication,1,3,2,18,61.28627751015905
+USER_335,Analyst,Finance,Statistics,1,5,4,1,93.28234386160707
+USER_336,Manager,HR,Data Engineering,2,4,2,8,76.75440810068915
+USER_337,Manager,HR,Communication,4,5,1,1,71.79949137558512
+USER_338,Analyst,Statistics,Leadership,2,4,2,11,57.702442459249376
+USER_339,Director,Finance,Data Science,1,5,4,4,47.38019770742474
+USER_340,Analyst,Statistics,Data Science,3,5,2,5,90.73626177939441
+USER_341,Specialist,HR,Project Management,2,5,3,12,56.52287045532511
+USER_342,Manager,IT,Data Engineering,2,4,2,11,87.90282043110115
+USER_343,Specialist,Statistics,Leadership,4,5,1,7,93.37912198105398
+USER_344,Manager,IT,Statistics,1,5,4,0,71.54875593239943
+USER_345,Specialist,Operations,Statistics,1,3,2,0,60.75264764427145
+USER_346,Manager,IT,Communication,1,5,4,17,78.21413904728459
+USER_347,Director,HR,Leadership,3,5,2,16,46.075594876909534
+USER_348,Analyst,IT,Data Engineering,2,4,2,16,48.43317805470164
+USER_349,Director,HR,Data Engineering,3,4,1,12,63.05240277914801
+USER_350,Director,HR,Leadership,2,4,2,9,63.72605607957486
+USER_351,Director,Operations,Project Management,1,5,4,9,94.00499098098885
+USER_352,Specialist,Operations,Data Engineering,2,3,1,2,93.30422033852088
+USER_353,Analyst,Operations,Communication,1,4,3,12,76.4126404946158
+USER_354,Specialist,IT,Project Management,1,3,2,4,49.24870259070923
+USER_355,Analyst,Operations,Data Science,2,3,1,18,61.371138827055645
+USER_356,Manager,Statistics,Statistics,1,3,2,13,80.64323929112301
+USER_357,Specialist,HR,Data Engineering,3,5,2,0,74.82805605962176
+USER_358,Director,Finance,Data Engineering,1,5,4,10,52.43854019125348
+USER_359,Specialist,Finance,Data Engineering,1,3,2,7,59.549387053866994
+USER_360,Director,Operations,Statistics,1,5,4,7,42.36757197345396
+USER_361,Manager,HR,Data Science,2,3,1,1,83.32859412735435
+USER_362,Manager,Operations,Data Engineering,4,5,1,10,72.95934876419045
+USER_363,Specialist,Statistics,Data Engineering,2,3,1,13,42.0676755655
+USER_364,Director,Finance,Project Management,1,3,2,15,45.62034524235461
+USER_365,Director,Finance,Communication,3,4,1,3,57.147013331552216
+USER_366,Director,HR,Data Science,3,4,1,10,95.12408263638264
+USER_367,Director,Operations,Leadership,1,4,3,13,67.35875654559621
+USER_368,Director,IT,Communication,3,5,2,6,97.36282861671599
+USER_369,Analyst,Statistics,Data Science,1,3,2,0,93.5854123117249
+USER_370,Director,HR,Leadership,2,5,3,4,70.62594934025392
+USER_371,Director,Finance,Project Management,1,3,2,10,92.32290030682046
+USER_372,Analyst,IT,Statistics,2,4,2,1,60.00443932954663
+USER_373,Manager,HR,Leadership,1,4,3,18,52.039061044225676
+USER_374,Director,HR,Statistics,2,3,1,0,60.5069442842057
+USER_375,Analyst,Operations,Data Engineering,1,3,2,7,96.22546170752769
+USER_376,Analyst,IT,Communication,1,3,2,2,76.81624685424751
+USER_377,Manager,IT,Data Science,2,4,2,5,58.368240452775595
+USER_378,Analyst,Finance,Leadership,1,4,3,12,97.30691243750209
+USER_379,Specialist,Statistics,Leadership,2,4,2,1,87.67093266944492
+USER_380,Manager,Operations,Project Management,2,4,2,14,52.66674826996817
+USER_381,Specialist,HR,Statistics,3,5,2,6,68.5862191806275
+USER_382,Manager,Operations,Data Science,1,3,2,12,76.20958576260273
+USER_383,Analyst,Statistics,Data Engineering,1,5,4,9,75.15188730721115
+USER_384,Manager,IT,Project Management,2,4,2,13,89.3520876630518
+USER_385,Specialist,Operations,Project Management,3,4,1,7,56.28456282680286
+USER_386,Specialist,Finance,Project Management,2,4,2,10,56.292822844674546
+USER_387,Director,Statistics,Data Science,1,5,4,17,56.57017346925397
+USER_388,Specialist,Finance,Project Management,1,3,2,7,40.22919535951499
+USER_389,Analyst,IT,Data Engineering,2,3,1,10,89.6028795958611
+USER_390,Director,Finance,Leadership,1,5,4,11,74.30854981642922
+USER_391,Analyst,HR,Statistics,3,5,2,16,62.63881968437941
+USER_392,Analyst,Finance,Communication,1,5,4,0,95.81025792630547
+USER_393,Director,Operations,Data Science,2,5,3,10,79.98312481469239
+USER_394,Specialist,Statistics,Data Science,1,5,4,8,46.32189533505139
+USER_395,Analyst,Finance,Leadership,4,5,1,16,61.6030279540587
+USER_396,Director,Finance,Communication,1,3,2,13,86.24683709583279
+USER_397,Analyst,Finance,Data Science,1,5,4,4,89.3307932089854
+USER_398,Manager,HR,Statistics,1,3,2,0,87.77443573377126
+USER_399,Analyst,IT,Data Engineering,2,3,1,17,84.22579302592308
+USER_400,Specialist,Statistics,Project Management,2,3,1,3,45.12048018905949
+USER_401,Analyst,Statistics,Leadership,1,5,4,9,72.62834367197425
+USER_402,Analyst,Operations,Data Engineering,2,4,2,5,60.24073280614556
+USER_403,Manager,Finance,Project Management,2,3,1,2,69.5718750668468
+USER_404,Manager,IT,Project Management,2,3,1,10,92.65882117904688
+USER_405,Analyst,IT,Statistics,2,4,2,15,86.3752889125669
+USER_406,Manager,Operations,Communication,3,4,1,9,86.20949270542576
+USER_407,Analyst,Operations,Project Management,2,3,1,0,84.34159346727752
+USER_408,Specialist,HR,Communication,2,3,1,3,72.90292217173923
+USER_409,Analyst,HR,Communication,3,5,2,7,86.99190479791756
+USER_410,Director,IT,Data Science,2,3,1,7,43.941691537261946
+USER_411,Manager,IT,Data Science,2,3,1,12,84.84666439580164
+USER_412,Specialist,Statistics,Communication,2,4,2,4,71.84424131721015
+USER_413,Director,IT,Communication,3,4,1,8,52.29887257160898
+USER_414,Analyst,Finance,Statistics,2,5,3,9,58.9088223479532
+USER_415,Analyst,IT,Leadership,1,5,4,14,49.83286142682893
+USER_416,Analyst,IT,Leadership,1,5,4,5,57.43027034028522
+USER_417,Director,Statistics,Communication,1,3,2,13,43.73219356988216
+USER_418,Specialist,IT,Data Science,1,4,3,8,66.8604055246251
+USER_419,Manager,HR,Project Management,2,3,1,1,54.51359764677335
+USER_420,Manager,Operations,Data Engineering,1,4,3,5,56.482228902873516
+USER_421,Manager,Finance,Project Management,2,4,2,13,65.96896013256816
+USER_422,Manager,Operations,Project Management,2,5,3,7,52.551127924475665
+USER_423,Specialist,HR,Leadership,1,3,2,12,71.63395964523475
+USER_424,Specialist,IT,Communication,1,4,3,2,69.89416002995638
+USER_425,Analyst,IT,Leadership,2,4,2,10,67.53780876263792
+USER_426,Director,Finance,Statistics,3,5,2,5,51.406458987023655
+USER_427,Analyst,Finance,Leadership,1,3,2,16,97.60813626432683
+USER_428,Director,Operations,Data Engineering,2,4,2,9,68.6140063880782
+USER_429,Analyst,HR,Communication,2,5,3,6,86.88093043686438
+USER_430,Analyst,IT,Communication,2,4,2,8,90.12446985052756
+USER_431,Specialist,IT,Communication,2,3,1,9,88.28518731938169
+USER_432,Director,HR,Data Engineering,2,4,2,4,54.74844635836918
+USER_433,Analyst,Operations,Data Engineering,4,5,1,9,94.08298579851609
+USER_434,Manager,HR,Project Management,3,5,2,0,42.69467793973695
+USER_435,Director,IT,Data Engineering,1,5,4,19,85.25589840082137
+USER_436,Director,HR,Leadership,1,5,4,13,77.32237374225963
+USER_437,Analyst,HR,Data Engineering,2,3,1,17,79.39786442247257
+USER_438,Manager,Operations,Statistics,2,3,1,19,46.10822097697221
+USER_439,Analyst,Statistics,Statistics,3,5,2,4,42.161129097485585
+USER_440,Specialist,Operations,Data Science,2,4,2,8,97.02755023451775
+USER_441,Director,Operations,Data Engineering,4,5,1,2,59.580305855919235
+USER_442,Specialist,Finance,Leadership,1,5,4,7,64.0565057483828
+USER_443,Specialist,Finance,Project Management,2,5,3,19,52.26765316328271
+USER_444,Director,IT,Data Science,4,5,1,13,44.269497110405965
+USER_445,Director,Operations,Communication,3,4,1,0,64.5647243090211
+USER_446,Specialist,Finance,Leadership,1,5,4,9,89.4872713766672
+USER_447,Director,Operations,Statistics,1,3,2,19,65.51369112626163
+USER_448,Analyst,Statistics,Data Engineering,2,5,3,5,43.278065200058336
+USER_449,Manager,Operations,Statistics,3,5,2,19,53.824999727040996
+USER_450,Specialist,IT,Leadership,3,4,1,11,53.4576089971027
+USER_451,Analyst,Operations,Communication,1,5,4,17,93.76244797943315
+USER_452,Director,HR,Data Engineering,2,3,1,13,47.52138854754314
+USER_453,Specialist,Operations,Leadership,2,5,3,7,79.66085525483922
+USER_454,Manager,Finance,Leadership,3,5,2,1,86.83790304553344
+USER_455,Specialist,Finance,Data Science,1,3,2,16,76.09323275798944
+USER_456,Director,Operations,Communication,1,5,4,4,46.150957843988465
+USER_457,Director,IT,Data Science,1,5,4,16,95.97549175418033
+USER_458,Director,HR,Statistics,4,5,1,5,95.25967126579455
+USER_459,Manager,Statistics,Statistics,1,5,4,16,41.851474258484345
+USER_460,Analyst,IT,Data Science,1,3,2,19,49.43957680010969
+USER_461,Specialist,Operations,Data Science,1,5,4,0,58.71904121958511
+USER_462,Specialist,IT,Statistics,4,5,1,17,40.96371189886037
+USER_463,Manager,Finance,Leadership,4,5,1,0,98.21542658356341
+USER_464,Specialist,HR,Data Engineering,4,5,1,18,82.37159097780152
+USER_465,Director,Operations,Data Science,2,3,1,0,58.53006544044045
+USER_466,Specialist,HR,Project Management,2,3,1,18,63.7932209193978
+USER_467,Analyst,IT,Leadership,2,5,3,3,77.50175116511235
+USER_468,Analyst,Operations,Statistics,3,4,1,7,55.02807392754994
+USER_469,Director,HR,Leadership,3,4,1,17,54.85060438842471
+USER_470,Specialist,Operations,Communication,1,3,2,10,51.48566082997255
+USER_471,Analyst,Operations,Communication,2,3,1,13,76.3302859969526
+USER_472,Manager,Statistics,Leadership,2,3,1,18,80.65245673021204
+USER_473,Director,IT,Leadership,2,4,2,0,78.50406383791349
+USER_474,Director,HR,Project Management,3,5,2,19,56.671166565382734
+USER_475,Analyst,Statistics,Statistics,2,5,3,7,44.05015280102931
+USER_476,Manager,Finance,Data Engineering,1,4,3,4,98.73745042246625
+USER_477,Manager,IT,Data Science,2,3,1,8,52.26643443697281
+USER_478,Director,Finance,Data Science,3,5,2,1,68.9823818535334
+USER_479,Manager,Finance,Statistics,2,4,2,10,75.72157967551624
+USER_480,Manager,IT,Leadership,1,3,2,8,45.52401916494853
+USER_481,Director,Finance,Communication,4,5,1,1,82.22753865943045
+USER_482,Manager,Statistics,Project Management,3,5,2,0,80.32336232513521
+USER_483,Specialist,HR,Project Management,1,3,2,1,91.9657380167015
+USER_484,Analyst,Finance,Data Science,2,5,3,14,52.785100521088495
+USER_485,Specialist,IT,Leadership,1,3,2,1,62.413288062860914
+USER_486,Analyst,IT,Data Engineering,1,3,2,6,55.186092350776526
+USER_487,Manager,IT,Communication,1,5,4,8,90.3880963998656
+USER_488,Analyst,Finance,Statistics,2,4,2,17,84.56949849437898
+USER_489,Director,Operations,Statistics,4,5,1,14,55.52269852932646
+USER_490,Director,Finance,Data Engineering,1,5,4,18,75.36723936908183
+USER_491,Analyst,Finance,Data Science,1,5,4,17,82.84316340268761
+USER_492,Director,IT,Data Science,1,3,2,14,41.77024330871235
+USER_493,Analyst,HR,Data Science,2,3,1,15,94.67009711080475
+USER_494,Director,Finance,Leadership,2,3,1,0,80.37230011588478
+USER_495,Manager,Finance,Statistics,3,4,1,5,62.997054378532084
+USER_496,Analyst,HR,Communication,3,5,2,9,70.81666279265947
+USER_497,Manager,Finance,Leadership,3,4,1,16,95.24599650780144
+USER_498,Director,Statistics,Project Management,1,5,4,0,93.72076534919016
+USER_499,Analyst,Finance,Data Science,3,4,1,10,78.27725576108432
+USER_500,Specialist,HR,Project Management,2,4,2,4,87.03924152136133
+USER_501,Manager,HR,Statistics,3,4,1,12,58.06276467005878
+USER_502,Specialist,IT,Data Engineering,2,5,3,14,56.862284882861694
+USER_503,Manager,Statistics,Leadership,2,4,2,0,95.44161222554396
+USER_504,Analyst,Finance,Data Engineering,1,3,2,17,92.90143671061048
+USER_505,Director,HR,Data Engineering,4,5,1,3,57.35124677775699
+USER_506,Manager,Statistics,Communication,4,5,1,19,92.35814815281012
+USER_507,Specialist,Operations,Data Engineering,2,5,3,3,77.93299586523693
+USER_508,Director,Statistics,Data Science,2,4,2,16,46.154077755015386
+USER_509,Analyst,HR,Data Science,3,4,1,6,51.63178407621356
+USER_510,Director,Statistics,Project Management,2,3,1,11,91.52585676096834
+USER_511,Director,Statistics,Leadership,1,4,3,14,80.41872504849445
+USER_512,Specialist,Operations,Data Engineering,3,4,1,16,84.43756893366222
+USER_513,Manager,IT,Data Engineering,1,4,3,17,57.80720092119104
+USER_514,Analyst,HR,Project Management,2,3,1,9,92.89974893996276
+USER_515,Specialist,HR,Statistics,3,4,1,3,47.10490235055591
+USER_516,Director,HR,Statistics,2,5,3,14,84.96342716806954
+USER_517,Director,Statistics,Leadership,1,3,2,0,72.45430023028484
+USER_518,Analyst,Operations,Statistics,2,5,3,17,59.65312991080795
+USER_519,Manager,Operations,Data Engineering,1,4,3,15,96.70685132536053
+USER_520,Analyst,Operations,Data Science,2,3,1,6,48.57051788885991
+USER_521,Analyst,Operations,Statistics,1,3,2,16,80.73386350467044
+USER_522,Analyst,Statistics,Statistics,1,3,2,16,76.68019613299882
+USER_523,Analyst,HR,Leadership,1,3,2,14,93.13718585450638
+USER_524,Manager,IT,Leadership,1,4,3,8,72.13939596085471
+USER_525,Manager,Statistics,Data Science,1,3,2,18,47.643184960020356
+USER_526,Manager,Operations,Project Management,1,3,2,18,89.2359254605952
+USER_527,Director,HR,Data Science,1,3,2,13,63.269565395015874
+USER_528,Specialist,Finance,Statistics,4,5,1,7,92.64102718797032
+USER_529,Specialist,IT,Communication,1,5,4,14,43.99388367485337
+USER_530,Manager,Finance,Data Science,1,3,2,12,88.22887271160681
+USER_531,Manager,Operations,Communication,1,3,2,2,53.20667955428519
+USER_532,Director,IT,Project Management,3,4,1,19,42.71915673765368
+USER_533,Director,Finance,Leadership,2,5,3,16,62.394469382754025
+USER_534,Specialist,Statistics,Communication,1,4,3,3,85.99090297195508
+USER_535,Specialist,Operations,Statistics,1,4,3,6,80.64840488940837
+USER_536,Analyst,HR,Communication,1,3,2,11,84.53519123194523
+USER_537,Specialist,Operations,Communication,1,3,2,16,55.4938611799696
+USER_538,Manager,IT,Leadership,2,3,1,9,74.72840527071642
+USER_539,Specialist,Finance,Project Management,2,4,2,12,82.76666057300986
+USER_540,Analyst,HR,Leadership,2,3,1,1,65.49105057208521
+USER_541,Director,Statistics,Communication,3,4,1,1,48.01903488463108
+USER_542,Manager,Statistics,Leadership,3,4,1,5,71.99508395674616
+USER_543,Manager,Operations,Leadership,3,4,1,0,71.72346514590615
+USER_544,Manager,Operations,Communication,2,3,1,3,89.42604374794738
+USER_545,Director,IT,Statistics,1,5,4,5,87.20250044243855
+USER_546,Specialist,Statistics,Statistics,2,3,1,7,41.86894556760346
+USER_547,Analyst,HR,Project Management,1,4,3,14,73.44023017438047
+USER_548,Analyst,HR,Project Management,2,4,2,7,84.173732951713
+USER_549,Manager,HR,Data Engineering,2,4,2,0,74.60214393146538
+USER_550,Specialist,HR,Project Management,4,5,1,9,40.34311488164736
+USER_551,Director,Operations,Leadership,3,5,2,12,47.804840189736815
+USER_552,Analyst,HR,Communication,3,5,2,10,40.82191302453487
+USER_553,Manager,Finance,Communication,1,3,2,16,85.7381574700576
+USER_554,Director,Operations,Leadership,3,4,1,9,63.435616454906935
+USER_555,Director,HR,Communication,1,3,2,10,80.56752385529742
+USER_556,Specialist,HR,Data Engineering,1,5,4,10,95.74837120092776
+USER_557,Director,Operations,Communication,1,3,2,18,66.58356173982526
+USER_558,Manager,IT,Statistics,1,4,3,5,75.5894931423681
+USER_559,Manager,HR,Leadership,1,5,4,17,46.60379705206691
+USER_560,Analyst,Statistics,Leadership,2,3,1,8,44.18803927687773
+USER_561,Specialist,IT,Project Management,1,5,4,0,50.761360617354455
+USER_562,Manager,Statistics,Communication,2,4,2,13,50.183705714615385
+USER_563,Director,HR,Communication,1,4,3,10,67.21473999537005
+USER_564,Director,IT,Project Management,2,4,2,12,49.22146257065227
+USER_565,Manager,IT,Data Engineering,2,3,1,10,75.57041083048661
+USER_566,Specialist,Finance,Leadership,1,4,3,16,76.41081733240836
+USER_567,Manager,HR,Communication,4,5,1,6,70.0945419950769
+USER_568,Specialist,HR,Leadership,4,5,1,8,99.83427399421616
+USER_569,Analyst,Statistics,Communication,2,3,1,7,96.44639798137005
+USER_570,Specialist,IT,Data Engineering,2,4,2,6,66.12361877054414
+USER_571,Specialist,Finance,Communication,1,3,2,18,73.11262818527113
+USER_572,Specialist,Finance,Statistics,3,4,1,1,68.4970579158249
+USER_573,Specialist,IT,Statistics,2,4,2,14,48.836533813125456
+USER_574,Analyst,IT,Leadership,2,3,1,7,52.43637874406006
+USER_575,Director,IT,Data Engineering,2,4,2,16,61.22180119484403
+USER_576,Manager,IT,Data Engineering,2,3,1,17,60.55870879135129
+USER_577,Director,HR,Project Management,3,4,1,13,88.22829342900852
+USER_578,Specialist,HR,Data Engineering,2,4,2,11,56.4184250716463
+USER_579,Analyst,Finance,Project Management,1,5,4,9,56.91514257428375
+USER_580,Analyst,Statistics,Statistics,2,3,1,15,72.83425122523859
+USER_581,Manager,Operations,Communication,1,3,2,16,85.90961972900598
+USER_582,Analyst,Finance,Communication,3,4,1,12,84.49848711016253
+USER_583,Specialist,Statistics,Communication,3,4,1,2,87.98307481712317
+USER_584,Specialist,Operations,Communication,1,5,4,12,97.08668953978551
+USER_585,Analyst,Statistics,Data Engineering,3,4,1,13,78.68471491460912
+USER_586,Analyst,Operations,Communication,4,5,1,5,47.899215327595506
+USER_587,Director,IT,Communication,2,3,1,2,50.970266792129024
+USER_588,Manager,Statistics,Statistics,1,4,3,5,62.47289460277487
+USER_589,Specialist,HR,Leadership,3,4,1,11,73.40709465569128
+USER_590,Manager,IT,Data Engineering,1,5,4,8,55.1587618372772
+USER_591,Director,IT,Data Engineering,3,4,1,12,77.40866983115778
+USER_592,Specialist,IT,Statistics,1,4,3,12,53.92334438206936
+USER_593,Director,Operations,Communication,1,3,2,16,57.63694606101385
+USER_594,Director,HR,Statistics,1,5,4,14,94.50607311276252
+USER_595,Analyst,Operations,Data Engineering,2,3,1,15,76.91521919694483
+USER_596,Analyst,Operations,Project Management,3,4,1,17,63.87194218104563
+USER_597,Director,Operations,Project Management,1,4,3,15,60.42469336685558
+USER_598,Specialist,Finance,Leadership,1,5,4,11,70.07653867754377
+USER_599,Analyst,IT,Communication,1,4,3,8,90.35082369881792
+USER_600,Manager,Statistics,Data Science,3,5,2,14,67.94095250573677
+USER_601,Analyst,HR,Data Engineering,1,4,3,11,62.78509137515905
+USER_602,Director,HR,Statistics,3,4,1,16,52.6468869612813
+USER_603,Analyst,Finance,Statistics,1,3,2,5,41.14932913307518
+USER_604,Analyst,HR,Leadership,1,4,3,18,60.70502473079402
+USER_605,Manager,HR,Data Science,1,3,2,6,55.92978444574434
+USER_606,Specialist,IT,Data Science,3,4,1,1,77.17695561669534
+USER_607,Specialist,Finance,Data Engineering,4,5,1,16,56.8969625263379
+USER_608,Manager,Statistics,Statistics,2,3,1,8,60.813158581863135
+USER_609,Manager,IT,Communication,3,4,1,2,48.535314386608924
+USER_610,Manager,Statistics,Leadership,2,3,1,11,51.143984320311134
+USER_611,Analyst,IT,Statistics,3,4,1,13,66.92672823967689
+USER_612,Specialist,Finance,Statistics,2,5,3,8,85.07062821724256
+USER_613,Specialist,Operations,Statistics,3,5,2,2,85.42288688191752
+USER_614,Specialist,Statistics,Data Science,3,5,2,11,64.67184933295275
+USER_615,Manager,IT,Statistics,3,5,2,11,94.55051584321515
+USER_616,Manager,HR,Data Science,1,4,3,19,89.8569502633041
+USER_617,Analyst,Statistics,Project Management,2,3,1,19,57.27672056055955
+USER_618,Specialist,Statistics,Statistics,2,4,2,4,61.30789886522875
+USER_619,Specialist,HR,Leadership,3,5,2,17,46.35119415267453
+USER_620,Specialist,HR,Leadership,3,4,1,7,63.97112707521609
+USER_621,Director,HR,Data Science,2,3,1,4,45.92423241295995
+USER_622,Specialist,HR,Data Engineering,1,5,4,12,75.10470653237218
+USER_623,Specialist,Finance,Data Engineering,1,3,2,0,81.98231236596857
+USER_624,Specialist,IT,Leadership,3,4,1,11,92.38653056585366
+USER_625,Director,Operations,Data Engineering,4,5,1,8,41.906709061439464
+USER_626,Director,Finance,Statistics,2,3,1,19,41.635000717048904
+USER_627,Specialist,Operations,Data Science,2,5,3,14,74.46620535233234
+USER_628,Manager,Finance,Data Science,2,5,3,14,89.24176964600676
+USER_629,Specialist,Statistics,Project Management,1,5,4,16,73.4386345188585
+USER_630,Analyst,Operations,Data Engineering,2,3,1,5,73.94129032846035
+USER_631,Analyst,Operations,Project Management,4,5,1,12,67.54744139720086
+USER_632,Manager,Operations,Data Engineering,4,5,1,16,65.24567210595555
+USER_633,Analyst,Finance,Statistics,3,4,1,19,54.986329746791185
+USER_634,Specialist,Statistics,Leadership,2,4,2,13,90.69173964937796
+USER_635,Director,HR,Communication,3,5,2,14,79.70666394829831
+USER_636,Specialist,IT,Data Science,3,5,2,2,64.19246536799514
+USER_637,Analyst,HR,Communication,1,3,2,17,46.35245909278776
+USER_638,Manager,Operations,Communication,2,3,1,15,53.01737475183277
+USER_639,Specialist,IT,Project Management,4,5,1,12,53.205320612283195
+USER_640,Director,HR,Data Engineering,3,4,1,8,58.78300870378881
+USER_641,Specialist,HR,Statistics,4,5,1,6,78.12486141171459
+USER_642,Manager,Finance,Data Science,2,5,3,17,80.64628427369766
+USER_643,Manager,HR,Data Engineering,4,5,1,12,79.48329903167325
+USER_644,Analyst,IT,Project Management,2,4,2,3,86.08769070285294
+USER_645,Director,Finance,Project Management,2,4,2,8,58.50809688936904
+USER_646,Director,HR,Communication,3,4,1,9,40.38274260439544
+USER_647,Analyst,Statistics,Data Science,4,5,1,18,60.7483659046255
+USER_648,Manager,Statistics,Project Management,3,4,1,19,62.9351351186475
+USER_649,Manager,HR,Leadership,1,3,2,8,76.21172839006726
+USER_650,Analyst,HR,Project Management,2,3,1,8,51.88573100321737
+USER_651,Director,Operations,Statistics,1,5,4,14,69.81373111000293
+USER_652,Manager,Operations,Project Management,2,3,1,15,66.53513659117354
+USER_653,Analyst,Finance,Statistics,2,4,2,8,43.143477735691675
+USER_654,Director,HR,Leadership,2,4,2,10,89.80905897987509
+USER_655,Director,Statistics,Project Management,1,3,2,1,95.5878278773711
+USER_656,Director,HR,Statistics,2,4,2,15,74.43699196414062
+USER_657,Director,Finance,Statistics,1,5,4,15,40.67815219534135
+USER_658,Director,Finance,Communication,3,5,2,11,61.84676650062997
+USER_659,Manager,Finance,Communication,2,5,3,14,56.28952015256268
+USER_660,Specialist,IT,Project Management,4,5,1,12,89.9418123796597
+USER_661,Analyst,IT,Data Science,1,5,4,7,95.82390521015952
+USER_662,Director,IT,Communication,1,4,3,4,45.01149488080112
+USER_663,Analyst,IT,Project Management,3,4,1,4,83.6517538135057
+USER_664,Specialist,HR,Communication,2,5,3,12,74.31975269701556
+USER_665,Specialist,Operations,Data Engineering,3,5,2,19,84.03432262011216
+USER_666,Specialist,Finance,Communication,2,4,2,4,89.64139328956873
+USER_667,Director,Finance,Project Management,1,3,2,12,54.79119433827898
+USER_668,Manager,IT,Project Management,2,3,1,19,58.71471433220231
+USER_669,Director,IT,Data Science,3,5,2,14,87.43123061630041
+USER_670,Specialist,Finance,Communication,2,3,1,17,42.717678616784646
+USER_671,Manager,Finance,Project Management,1,5,4,3,56.23863651890594
+USER_672,Analyst,Finance,Statistics,2,3,1,6,47.036808868026704
+USER_673,Specialist,HR,Statistics,3,4,1,18,99.11047330544048
+USER_674,Manager,Finance,Statistics,4,5,1,1,59.817080050125064
+USER_675,Analyst,HR,Data Science,3,4,1,0,47.75046671458662
+USER_676,Director,Finance,Data Engineering,2,5,3,11,42.40833154512199
+USER_677,Specialist,Statistics,Data Science,4,5,1,14,52.61911337714762
+USER_678,Manager,IT,Statistics,2,5,3,11,43.660428580323696
+USER_679,Director,Operations,Leadership,3,4,1,2,59.45976264109108
+USER_680,Manager,Finance,Statistics,1,5,4,16,80.9519475722633
+USER_681,Specialist,IT,Communication,2,4,2,9,81.54125836926485
+USER_682,Analyst,Finance,Data Science,2,3,1,14,43.5965980516785
+USER_683,Specialist,Finance,Data Engineering,1,4,3,10,46.806449026235
+USER_684,Manager,IT,Statistics,1,4,3,7,47.58318534434002
+USER_685,Specialist,Statistics,Statistics,2,3,1,1,90.52093969040465
+USER_686,Director,IT,Communication,1,4,3,3,50.47883115377977
+USER_687,Analyst,Finance,Leadership,3,4,1,14,93.42305925131596
+USER_688,Specialist,Operations,Communication,1,3,2,9,72.80177969778039
+USER_689,Manager,Finance,Data Engineering,2,4,2,11,49.04124922005003
+USER_690,Manager,Operations,Project Management,2,3,1,3,76.32887503155672
+USER_691,Specialist,Finance,Data Science,2,3,1,5,57.74944584979217
+USER_692,Director,Operations,Data Engineering,4,5,1,3,59.549407646229085
+USER_693,Director,IT,Leadership,3,4,1,15,94.16233062672137
+USER_694,Manager,IT,Project Management,1,3,2,16,89.89109998673342
+USER_695,Analyst,HR,Communication,1,4,3,19,78.69417431754135
+USER_696,Director,Statistics,Leadership,3,4,1,2,61.395770559172334
+USER_697,Manager,Operations,Leadership,2,4,2,19,73.94469703679735
+USER_698,Director,Statistics,Data Science,2,3,1,1,76.42811685301461
+USER_699,Specialist,Statistics,Communication,1,5,4,19,48.2809292212031
+USER_700,Manager,HR,Leadership,3,5,2,15,99.73413402944126
+USER_701,Director,Finance,Project Management,1,5,4,14,59.09824568154084
+USER_702,Manager,Operations,Statistics,2,3,1,15,47.99259544819772
+USER_703,Director,IT,Leadership,1,5,4,11,74.35857118693508
+USER_704,Specialist,HR,Communication,1,3,2,18,83.81495137177427
+USER_705,Analyst,IT,Data Engineering,1,5,4,19,69.52326936294403
+USER_706,Director,IT,Data Engineering,3,4,1,7,97.80879684845965
+USER_707,Director,Operations,Leadership,3,4,1,8,45.161929421976595
+USER_708,Specialist,HR,Leadership,3,5,2,9,89.20405012333896
+USER_709,Director,IT,Project Management,3,4,1,5,79.17697948827053
+USER_710,Specialist,HR,Communication,1,3,2,19,83.81330306543495
+USER_711,Specialist,Statistics,Leadership,1,5,4,11,82.10429643263544
+USER_712,Analyst,Operations,Project Management,3,5,2,13,83.94330679585329
+USER_713,Analyst,Statistics,Data Science,1,3,2,19,80.53977413242438
+USER_714,Manager,Finance,Leadership,1,3,2,10,62.20147144856895
+USER_715,Director,Finance,Data Science,1,5,4,10,98.15930873705074
+USER_716,Analyst,HR,Statistics,2,3,1,0,70.3558992591735
+USER_717,Specialist,Statistics,Project Management,2,5,3,2,67.10436855888663
+USER_718,Director,Statistics,Project Management,1,3,2,18,40.011191690239784
+USER_719,Specialist,IT,Leadership,1,5,4,5,67.32298812883646
+USER_720,Manager,Statistics,Data Science,3,4,1,17,51.85835323546781
+USER_721,Director,Operations,Statistics,1,4,3,17,64.08770674534259
+USER_722,Specialist,Operations,Communication,1,3,2,1,42.285178035959156
+USER_723,Manager,IT,Communication,2,5,3,0,42.51784440661806
+USER_724,Director,Operations,Statistics,1,3,2,18,57.72807547760556
+USER_725,Director,Statistics,Communication,3,5,2,17,50.32516194715758
+USER_726,Director,HR,Data Engineering,3,5,2,3,76.86400044587943
+USER_727,Analyst,IT,Project Management,3,4,1,10,87.48458503041854
+USER_728,Manager,Operations,Communication,2,4,2,6,80.70947011903488
+USER_729,Manager,Operations,Statistics,3,4,1,5,83.32396385222711
+USER_730,Manager,Operations,Project Management,1,5,4,9,68.87667707315421
+USER_731,Director,Statistics,Data Engineering,2,4,2,11,88.86320675612568
+USER_732,Analyst,Finance,Data Science,2,5,3,19,41.44661160452001
+USER_733,Director,HR,Communication,2,4,2,17,62.992921956835104
+USER_734,Specialist,HR,Data Engineering,1,4,3,10,89.5804486570112
+USER_735,Analyst,Finance,Statistics,2,3,1,11,96.12268967842704
+USER_736,Analyst,Operations,Statistics,1,3,2,15,91.97754615893088
+USER_737,Analyst,Statistics,Communication,3,5,2,12,89.176573183948
+USER_738,Manager,Operations,Data Engineering,1,5,4,9,72.57988795631616
+USER_739,Analyst,HR,Statistics,3,5,2,14,48.57765265604513
+USER_740,Director,IT,Statistics,1,3,2,14,91.28834672795568
+USER_741,Specialist,Finance,Data Engineering,3,5,2,19,68.4660936172441
+USER_742,Analyst,Operations,Leadership,1,3,2,2,92.68201077066742
+USER_743,Analyst,Statistics,Communication,1,4,3,6,45.88046108684446
+USER_744,Manager,Statistics,Project Management,1,4,3,4,67.07159148704342
+USER_745,Manager,Statistics,Statistics,4,5,1,17,50.19322439314344
+USER_746,Specialist,Statistics,Data Science,2,4,2,3,61.488382991748665
+USER_747,Analyst,HR,Leadership,3,4,1,17,95.68310501373088
+USER_748,Director,IT,Leadership,2,4,2,18,59.86878934984899
+USER_749,Manager,Statistics,Data Science,2,3,1,1,42.48568532916327
+USER_750,Manager,Operations,Statistics,3,4,1,12,50.170245511963515
+USER_751,Director,Finance,Communication,2,4,2,1,75.26182109725275
+USER_752,Director,IT,Data Engineering,3,4,1,14,66.22309131053126
+USER_753,Director,HR,Data Science,3,5,2,6,54.44023088542919
+USER_754,Analyst,IT,Project Management,2,4,2,8,77.84304666951576
+USER_755,Director,HR,Leadership,2,5,3,17,88.62809303292796
+USER_756,Director,IT,Communication,1,5,4,19,91.98539101238201
+USER_757,Director,Finance,Data Science,2,3,1,2,67.57867584314424
+USER_758,Director,IT,Project Management,2,3,1,15,77.96815663969042
+USER_759,Specialist,IT,Leadership,2,3,1,7,47.65421047428225
+USER_760,Director,HR,Data Science,2,3,1,10,82.04353127705582
+USER_761,Manager,Statistics,Project Management,1,3,2,6,73.208306572591
+USER_762,Director,HR,Data Engineering,3,4,1,9,68.38165020058125
+USER_763,Director,Statistics,Communication,2,5,3,12,64.74418362807197
+USER_764,Analyst,Statistics,Data Engineering,1,4,3,19,55.679981073123024
+USER_765,Analyst,Finance,Data Engineering,2,3,1,17,64.93084378372396
+USER_766,Manager,Operations,Leadership,1,3,2,10,75.08966867834745
+USER_767,Director,Statistics,Leadership,1,5,4,18,77.54091473568116
+USER_768,Analyst,HR,Data Science,2,3,1,0,51.77765813866402
+USER_769,Manager,HR,Data Engineering,2,3,1,1,93.43950732771054
+USER_770,Director,HR,Statistics,1,3,2,15,57.74485375570124
+USER_771,Director,Statistics,Data Science,2,3,1,1,50.8703110510012
+USER_772,Analyst,Operations,Statistics,1,4,3,5,75.37920970909286
+USER_773,Director,Finance,Project Management,2,3,1,9,71.08464988242068
+USER_774,Analyst,IT,Communication,1,4,3,7,80.13259186244112
+USER_775,Specialist,HR,Data Science,1,4,3,19,82.42091765635544
+USER_776,Director,Finance,Data Engineering,2,5,3,12,41.136724202461274
+USER_777,Director,Statistics,Data Engineering,1,4,3,7,78.30932708794813
+USER_778,Analyst,HR,Project Management,2,3,1,2,94.19341764068244
+USER_779,Specialist,Operations,Statistics,2,3,1,11,61.394279557049146
+USER_780,Director,Finance,Communication,2,3,1,6,98.59366139937426
+USER_781,Manager,Finance,Data Engineering,1,5,4,18,93.17729298734307
+USER_782,Specialist,IT,Data Science,2,5,3,16,50.947482439149404
+USER_783,Director,IT,Data Science,2,3,1,9,83.56667556067822
+USER_784,Manager,HR,Leadership,3,4,1,19,84.71288456145007
+USER_785,Specialist,HR,Leadership,3,4,1,14,95.29080351444507
+USER_786,Specialist,HR,Data Science,1,5,4,13,50.96880331235356
+USER_787,Director,Statistics,Project Management,2,5,3,15,69.17041924629298
+USER_788,Manager,Statistics,Leadership,3,4,1,12,91.52188727467444
+USER_789,Specialist,Statistics,Leadership,2,4,2,5,81.41937081404373
+USER_790,Analyst,Statistics,Project Management,2,3,1,13,78.74350260106323
+USER_791,Manager,Finance,Statistics,3,5,2,2,50.62762865189524
+USER_792,Manager,Operations,Data Engineering,3,4,1,6,85.10950875740087
+USER_793,Director,Statistics,Leadership,3,4,1,12,82.30245438121557
+USER_794,Director,Operations,Project Management,3,5,2,7,91.58077510481998
+USER_795,Manager,IT,Data Science,4,5,1,8,89.23312835534313
+USER_796,Manager,IT,Statistics,1,3,2,4,70.66681830937003
+USER_797,Analyst,HR,Data Science,4,5,1,19,96.03195657077492
+USER_798,Specialist,Operations,Leadership,3,4,1,16,58.254511829631745
+USER_799,Manager,Finance,Communication,2,5,3,14,44.25495756927876
+USER_800,Specialist,HR,Leadership,2,5,3,14,91.80907650214692
+USER_801,Specialist,IT,Statistics,2,3,1,16,53.29103632678635
+USER_802,Specialist,Statistics,Statistics,3,4,1,1,50.047584671079306
+USER_803,Specialist,Operations,Data Engineering,3,5,2,5,43.78779455247799
+USER_804,Analyst,Operations,Leadership,2,4,2,13,92.15049144418523
+USER_805,Analyst,Operations,Project Management,2,3,1,2,93.70339623998998
+USER_806,Director,Statistics,Statistics,1,4,3,15,55.398832431165744
+USER_807,Manager,Statistics,Statistics,1,3,2,6,90.73921133664055
+USER_808,Analyst,Statistics,Data Engineering,1,5,4,4,91.72456855459582
+USER_809,Specialist,Finance,Statistics,1,3,2,5,83.97155123990986
+USER_810,Analyst,Statistics,Data Science,3,4,1,0,47.14844031976289
+USER_811,Director,HR,Communication,2,3,1,0,83.12308679573215
+USER_812,Specialist,Finance,Data Science,4,5,1,17,51.392519745755195
+USER_813,Manager,Operations,Data Science,2,3,1,16,66.651004412702
+USER_814,Director,Finance,Data Engineering,1,4,3,18,41.90334950896187
+USER_815,Director,Finance,Statistics,3,4,1,9,73.74576244707526
+USER_816,Analyst,IT,Project Management,2,4,2,13,63.91854965278384
+USER_817,Analyst,Finance,Statistics,1,5,4,13,91.52568579032223
+USER_818,Specialist,HR,Communication,3,4,1,5,60.23983653074593
+USER_819,Manager,Statistics,Leadership,1,4,3,16,54.01404166411666
+USER_820,Analyst,IT,Leadership,3,4,1,2,61.796367783933974
+USER_821,Specialist,Operations,Data Engineering,3,4,1,18,59.80935701893627
+USER_822,Manager,Finance,Statistics,1,3,2,16,58.87773453611193
+USER_823,Specialist,HR,Data Science,2,5,3,18,59.57692909413679
+USER_824,Analyst,Statistics,Statistics,2,5,3,19,91.87914127616475
+USER_825,Director,Statistics,Project Management,1,3,2,15,50.12860034707385
+USER_826,Specialist,IT,Data Engineering,2,4,2,0,90.18525537913837
+USER_827,Director,IT,Leadership,1,3,2,6,70.22250322504425
+USER_828,Specialist,HR,Statistics,1,4,3,1,50.05399235827039
+USER_829,Specialist,Statistics,Data Engineering,1,3,2,19,79.80175204088088
+USER_830,Director,Finance,Data Engineering,2,4,2,5,64.81099181739755
+USER_831,Director,IT,Statistics,1,3,2,0,42.58600653689945
+USER_832,Director,Statistics,Data Engineering,4,5,1,4,48.471943812231096
+USER_833,Director,Operations,Statistics,2,3,1,2,77.66013262952852
+USER_834,Analyst,Statistics,Data Engineering,1,4,3,6,93.24813641277294
+USER_835,Analyst,Statistics,Statistics,3,5,2,13,80.2843643586242
+USER_836,Director,Finance,Project Management,2,5,3,1,81.32863021539922
+USER_837,Analyst,Finance,Data Engineering,1,4,3,18,54.24899831016304
+USER_838,Specialist,Statistics,Statistics,4,5,1,14,85.5586513090123
+USER_839,Manager,HR,Communication,2,3,1,17,68.35092656917512
+USER_840,Analyst,Statistics,Communication,3,4,1,0,91.21927293646672
+USER_841,Director,Operations,Data Science,2,3,1,5,52.12896395351625
+USER_842,Specialist,Operations,Project Management,1,3,2,1,63.83628837042758
+USER_843,Specialist,Statistics,Communication,1,4,3,16,49.70167319643921
+USER_844,Analyst,Operations,Project Management,3,4,1,17,93.06872365580554
+USER_845,Manager,Finance,Statistics,1,3,2,15,58.08778356752804
+USER_846,Analyst,Statistics,Data Engineering,1,4,3,3,97.12374679834016
+USER_847,Specialist,Statistics,Communication,3,5,2,12,55.423761531352525
+USER_848,Director,Finance,Communication,1,3,2,19,69.24306650032257
+USER_849,Specialist,Statistics,Statistics,2,4,2,17,89.76310900854247
+USER_850,Manager,HR,Leadership,1,4,3,16,57.95392025806363
+USER_851,Director,HR,Communication,2,3,1,10,87.77803980490793
+USER_852,Specialist,IT,Statistics,4,5,1,6,60.35321790350703
+USER_853,Manager,Statistics,Communication,2,3,1,16,41.20139378393126
+USER_854,Director,IT,Project Management,1,4,3,5,78.08464846624177
+USER_855,Manager,Finance,Data Science,3,4,1,13,57.51467040986844
+USER_856,Specialist,HR,Statistics,1,3,2,19,71.88140990516172
+USER_857,Manager,IT,Statistics,2,5,3,16,93.87731297110115
+USER_858,Manager,Finance,Communication,1,3,2,11,47.406991948621304
+USER_859,Analyst,Operations,Communication,2,4,2,16,90.3459819279767
+USER_860,Manager,HR,Communication,3,4,1,11,82.05194194752572
+USER_861,Manager,IT,Communication,3,4,1,13,44.10644255455757
+USER_862,Specialist,IT,Communication,2,4,2,18,51.50417304341599
+USER_863,Analyst,HR,Leadership,3,4,1,4,86.60790623251785
+USER_864,Director,HR,Leadership,1,3,2,4,82.39624773965306
+USER_865,Director,Operations,Data Engineering,1,3,2,5,52.70475172314517
+USER_866,Director,Finance,Data Engineering,1,3,2,2,58.37607322027688
+USER_867,Specialist,Finance,Project Management,2,4,2,8,89.29849418673732
+USER_868,Manager,HR,Data Science,1,3,2,0,73.86499526678486
+USER_869,Manager,Finance,Communication,1,4,3,3,74.96116879327496
+USER_870,Manager,Finance,Leadership,1,4,3,5,51.52140214818067
+USER_871,Analyst,IT,Leadership,3,5,2,8,64.47337651043681
+USER_872,Analyst,IT,Statistics,4,5,1,9,88.78885931007909
+USER_873,Specialist,Operations,Communication,2,3,1,13,91.36006449358916
+USER_874,Analyst,IT,Statistics,2,3,1,17,44.183165550023766
+USER_875,Analyst,Statistics,Communication,3,5,2,5,90.1849357947914
+USER_876,Director,Finance,Data Engineering,2,4,2,5,73.16889254310095
+USER_877,Manager,Operations,Statistics,3,4,1,5,76.85117465914068
+USER_878,Analyst,HR,Project Management,4,5,1,17,44.49375052011902
+USER_879,Manager,Statistics,Data Science,3,4,1,19,62.67964231756919
+USER_880,Director,Finance,Statistics,1,4,3,19,65.49721114374583
+USER_881,Director,Statistics,Data Engineering,4,5,1,1,55.74450258935812
+USER_882,Specialist,HR,Data Science,2,3,1,18,74.65678483822802
+USER_883,Manager,Operations,Project Management,2,4,2,11,53.88145853556454
+USER_884,Manager,Finance,Communication,1,3,2,3,70.99765551125651
+USER_885,Manager,HR,Data Engineering,2,3,1,17,67.33897296639265
+USER_886,Director,Statistics,Leadership,3,4,1,11,95.4785074677182
+USER_887,Manager,Statistics,Data Engineering,2,3,1,15,76.62178046908943
+USER_888,Director,Operations,Project Management,1,4,3,2,91.12290494828157
+USER_889,Director,IT,Leadership,2,4,2,1,40.96168938730739
+USER_890,Analyst,IT,Communication,1,4,3,1,40.63306734701139
+USER_891,Specialist,IT,Statistics,3,4,1,8,64.38499219444111
+USER_892,Director,Finance,Data Engineering,1,3,2,19,77.41031867484023
+USER_893,Director,Finance,Data Engineering,2,4,2,6,85.62400403724897
+USER_894,Specialist,IT,Leadership,3,5,2,5,68.44947675274477
+USER_895,Analyst,Operations,Leadership,1,4,3,15,55.15182337818667
+USER_896,Specialist,Operations,Data Science,3,5,2,15,60.51194612788906
+USER_897,Manager,Statistics,Communication,1,5,4,11,66.74953298962097
+USER_898,Analyst,IT,Data Engineering,2,3,1,4,94.79378117675623
+USER_899,Manager,Finance,Project Management,1,5,4,12,66.71644148588227
+USER_900,Director,Finance,Data Engineering,2,4,2,5,56.53400657855071
+USER_901,Analyst,Operations,Data Science,4,5,1,18,52.28814454337257
+USER_902,Director,Operations,Data Science,2,5,3,18,54.535429455086046
+USER_903,Manager,IT,Statistics,3,4,1,11,54.3408720799566
+USER_904,Analyst,Operations,Data Engineering,1,5,4,17,84.45215610311307
+USER_905,Director,Finance,Project Management,1,5,4,8,75.58337139804146
+USER_906,Analyst,Finance,Data Engineering,1,3,2,14,57.50160704329517
+USER_907,Manager,Statistics,Communication,2,3,1,6,79.82456431752323
+USER_908,Specialist,HR,Data Science,3,5,2,13,93.06060567827726
+USER_909,Manager,IT,Statistics,2,3,1,16,56.93883005264321
+USER_910,Manager,Statistics,Communication,3,5,2,7,79.68056073668347
+USER_911,Director,Statistics,Leadership,2,5,3,15,72.16932317516417
+USER_912,Specialist,IT,Data Engineering,3,5,2,3,85.41565956048649
+USER_913,Analyst,Finance,Data Science,2,4,2,16,46.66905278699871
+USER_914,Director,Finance,Data Engineering,4,5,1,19,43.276618192808144
+USER_915,Director,Statistics,Communication,1,3,2,17,90.36719405257304
+USER_916,Manager,IT,Leadership,1,4,3,3,82.9228610307193
+USER_917,Director,Statistics,Leadership,2,3,1,11,44.51808601590818
+USER_918,Analyst,Finance,Leadership,2,4,2,9,59.75383692048367
+USER_919,Manager,HR,Data Engineering,2,4,2,18,71.29305903465803
+USER_920,Manager,Operations,Data Science,1,3,2,16,41.31080271917211
+USER_921,Manager,IT,Data Engineering,1,4,3,7,65.70110803413078
+USER_922,Analyst,Statistics,Leadership,1,4,3,10,72.13254838586789
+USER_923,Manager,Statistics,Statistics,3,4,1,0,87.11139306537048
+USER_924,Director,IT,Leadership,2,3,1,19,72.83828464688105
+USER_925,Analyst,Finance,Data Science,2,3,1,14,56.95301605111833
+USER_926,Analyst,Statistics,Data Engineering,4,5,1,12,43.29797841038933
+USER_927,Specialist,HR,Data Engineering,1,5,4,12,70.62760788078648
+USER_928,Analyst,HR,Communication,2,3,1,12,60.83153005373272
+USER_929,Manager,HR,Data Science,1,3,2,18,80.78228671461004
+USER_930,Manager,HR,Project Management,2,5,3,19,87.29205579200237
+USER_931,Director,IT,Leadership,2,5,3,18,83.98962268820797
+USER_932,Director,Statistics,Statistics,2,3,1,6,64.33871556683425
+USER_933,Analyst,IT,Data Engineering,1,4,3,3,76.19472536104179
+USER_934,Manager,Operations,Data Science,4,5,1,17,45.43356805605523
+USER_935,Manager,HR,Leadership,1,4,3,2,40.81970112823657
+USER_936,Specialist,Statistics,Data Science,4,5,1,14,41.9433482665597
+USER_937,Manager,HR,Communication,1,3,2,18,60.27889302819017
+USER_938,Analyst,Operations,Communication,1,3,2,0,54.15979635455425
+USER_939,Manager,IT,Leadership,4,5,1,17,90.68785487128876
+USER_940,Director,Statistics,Leadership,3,4,1,17,92.07877760385418
+USER_941,Manager,IT,Project Management,2,5,3,17,47.88474297131611
+USER_942,Director,Statistics,Leadership,1,5,4,13,47.46531321111361
+USER_943,Analyst,IT,Leadership,2,5,3,3,90.24697570500771
+USER_944,Manager,IT,Data Science,3,4,1,5,46.384705774170676
+USER_945,Analyst,IT,Data Science,1,3,2,9,59.24401493869428
+USER_946,Specialist,IT,Statistics,2,4,2,6,64.66680501969091
+USER_947,Specialist,Finance,Statistics,2,5,3,16,54.49607658614578
+USER_948,Director,IT,Project Management,1,3,2,6,80.61233654965459
+USER_949,Analyst,Finance,Project Management,2,4,2,18,52.65819343719703
+USER_950,Manager,Finance,Communication,2,5,3,4,67.6197430385659
+USER_951,Manager,Finance,Leadership,2,5,3,18,44.3599352548694
+USER_952,Analyst,Operations,Communication,2,3,1,1,47.53860954473884
+USER_953,Analyst,Finance,Data Science,3,4,1,8,53.047175933034154
+USER_954,Manager,IT,Leadership,2,3,1,2,88.00825496512456
+USER_955,Specialist,HR,Data Science,2,3,1,11,65.93386357027049
+USER_956,Analyst,HR,Data Engineering,2,4,2,5,81.23406060764097
+USER_957,Analyst,Finance,Data Science,1,5,4,12,64.55095524750931
+USER_958,Manager,HR,Communication,3,5,2,2,57.63500563029602
+USER_959,Director,Operations,Statistics,2,3,1,8,46.26492216988708
+USER_960,Manager,Statistics,Data Engineering,2,3,1,7,65.87262909185974
+USER_961,Specialist,Operations,Data Engineering,3,5,2,10,83.33296592041877
+USER_962,Specialist,Finance,Data Engineering,2,4,2,2,43.06993038672856
+USER_963,Analyst,Finance,Leadership,1,3,2,5,50.905815865671656
+USER_964,Manager,Statistics,Communication,2,3,1,11,47.997055484930385
+USER_965,Manager,Operations,Data Science,1,3,2,13,86.55263526818158
+USER_966,Director,IT,Statistics,1,4,3,16,90.05948774496392
+USER_967,Analyst,Finance,Data Engineering,2,3,1,14,55.10840596305289
+USER_968,Analyst,Operations,Statistics,2,4,2,18,57.55930586004447
+USER_969,Director,IT,Statistics,2,5,3,17,53.219643606254955
+USER_970,Manager,IT,Project Management,3,4,1,1,71.69135570538137
+USER_971,Director,IT,Data Science,1,5,4,6,89.69115215940718
+USER_972,Manager,Operations,Data Engineering,2,5,3,6,48.13968802962266
+USER_973,Analyst,IT,Data Engineering,2,5,3,1,98.16945396437069
+USER_974,Analyst,Operations,Statistics,3,5,2,18,66.2054690708245
+USER_975,Specialist,Operations,Project Management,4,5,1,19,79.25322772174079
+USER_976,Director,Statistics,Project Management,3,4,1,6,98.46635863830852
+USER_977,Specialist,HR,Project Management,3,4,1,14,78.77859601944289
+USER_978,Director,IT,Data Science,3,5,2,6,86.07258181802268
+USER_979,Director,HR,Leadership,3,4,1,1,89.5834186960333
+USER_980,Manager,Operations,Communication,2,3,1,8,65.61368366939816
+USER_981,Director,Finance,Communication,1,4,3,17,58.69917499927894
+USER_982,Director,Statistics,Project Management,1,3,2,2,68.67204129478814
+USER_983,Analyst,Operations,Project Management,1,4,3,5,58.415864378873955
+USER_984,Director,HR,Statistics,2,3,1,15,42.38782764013915
+USER_985,Director,Operations,Data Engineering,4,5,1,15,67.55822129278442
+USER_986,Director,Finance,Data Engineering,2,4,2,5,90.33036020591622
+USER_987,Director,Operations,Leadership,1,3,2,7,94.66723008351745
+USER_988,Director,Finance,Data Engineering,2,4,2,15,74.95202664644415
+USER_989,Analyst,IT,Project Management,2,4,2,19,51.366605990044164
+USER_990,Director,Statistics,Data Engineering,3,4,1,7,47.49220461435536
+USER_991,Manager,Operations,Project Management,3,4,1,0,72.48175830376792
+USER_992,Specialist,Operations,Data Science,3,5,2,18,55.6241865272745
+USER_993,Analyst,Finance,Communication,1,5,4,6,81.36502803227947
+USER_994,Manager,Finance,Data Science,2,5,3,8,91.5160064189499
+USER_995,Manager,IT,Data Science,2,5,3,2,76.13537814263543
+USER_996,Manager,Finance,Statistics,1,4,3,17,90.0674951713658
+USER_997,Specialist,IT,Communication,1,4,3,0,41.15007325149867
+USER_998,Specialist,Operations,Leadership,1,3,2,8,49.9902128229709
+USER_999,Specialist,IT,Project Management,3,5,2,12,94.89009699981268

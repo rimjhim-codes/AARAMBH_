@@ -1,0 +1,201 @@
+courseId,course_title,course_difficulty,course_durationHours,course_provider,course_competency
+COURSE_0,Communication Advanced Course,advanced,29.5477637306448,ARAMBH Platform Catalog,Communication
+COURSE_1,Data Engineering Beginner Course,beginner,7.0837862931119036,NSSTA,Data Engineering
+COURSE_2,Leadership Advanced Course,advanced,24.443485457985144,NSSTA,Leadership
+COURSE_3,Project Management Beginner Course,beginner,29.157952118406165,iGOT,Project Management
+COURSE_4,Project Management Beginner Course,beginner,39.69625081235748,ARAMBH Platform Catalog,Project Management
+COURSE_5,Communication Intermediate Course,intermediate,1.2755859035689787,ARAMBH Platform Catalog,Communication
+COURSE_6,Data Science Intermediate Course,intermediate,16.59457789689496,NSSTA,Data Science
+COURSE_7,Project Management Beginner Course,beginner,25.117054363990405,NSSTA,Project Management
+COURSE_8,Communication Intermediate Course,intermediate,2.811566096079911,NSSTA,Communication
+COURSE_9,Data Engineering Beginner Course,beginner,1.5173334852347946,ARAMBH Platform Catalog,Data Engineering
+COURSE_10,Communication Intermediate Course,intermediate,16.03124359905673,iGOT,Communication
+COURSE_11,Data Engineering Beginner Course,beginner,10.399993175014457,NSSTA,Data Engineering
+COURSE_12,Communication Beginner Course,beginner,2.3411523234935174,iGOT,Communication
+COURSE_13,Data Science Beginner Course,beginner,26.838369089805298,iGOT,Data Science
+COURSE_14,Project Management Intermediate Course,intermediate,22.321700894387906,iGOT,Project Management
+COURSE_15,Data Engineering Advanced Course,advanced,31.230180111083467,iGOT,Data Engineering
+COURSE_16,Statistics Advanced Course,advanced,24.31809917363232,NSSTA,Statistics
+COURSE_17,Project Management Beginner Course,beginner,2.763864267510985,ARAMBH Platform Catalog,Project Management
+COURSE_18,Data Engineering Beginner Course,beginner,33.32076285692524,iGOT,Data Engineering
+COURSE_19,Data Science Beginner Course,beginner,22.165147243171692,ARAMBH Platform Catalog,Data Science
+COURSE_20,Data Engineering Advanced Course,advanced,3.907475103511062,NSSTA,Data Engineering
+COURSE_21,Data Science Intermediate Course,intermediate,8.749911579832723,NSSTA,Data Science
+COURSE_22,Leadership Beginner Course,beginner,28.74233615719735,NSSTA,Leadership
+COURSE_23,Data Science Intermediate Course,intermediate,37.12573426202061,iGOT,Data Science
+COURSE_24,Data Science Advanced Course,advanced,34.151504533802175,iGOT,Data Science
+COURSE_25,Data Science Beginner Course,beginner,13.128310546910825,ARAMBH Platform Catalog,Data Science
+COURSE_26,Leadership Intermediate Course,intermediate,11.714149926612503,NSSTA,Leadership
+COURSE_27,Data Science Beginner Course,beginner,38.896771720175046,NSSTA,Data Science
+COURSE_28,Data Science Intermediate Course,intermediate,10.203411870209274,iGOT,Data Science
+COURSE_29,Leadership Intermediate Course,intermediate,17.674099715983434,iGOT,Leadership
+COURSE_30,Communication Beginner Course,beginner,2.225738241782636,NSSTA,Communication
+COURSE_31,Data Science Beginner Course,beginner,20.83425695542341,iGOT,Data Science
+COURSE_32,Data Engineering Beginner Course,beginner,17.00493399838956,NSSTA,Data Engineering
+COURSE_33,Data Engineering Beginner Course,beginner,4.002216483322927,NSSTA,Data Engineering
+COURSE_34,Leadership Beginner Course,beginner,37.25820844136035,ARAMBH Platform Catalog,Leadership
+COURSE_35,Project Management Intermediate Course,intermediate,34.98696301732099,iGOT,Project Management
+COURSE_36,Project Management Intermediate Course,intermediate,32.49016605139844,ARAMBH Platform Catalog,Project Management
+COURSE_37,Project Management Beginner Course,beginner,9.889471339135726,iGOT,Project Management
+COURSE_38,Data Science Advanced Course,advanced,34.56849274699739,NSSTA,Data Science
+COURSE_39,Project Management Intermediate Course,intermediate,17.27902912280238,ARAMBH Platform Catalog,Project Management
+COURSE_40,Data Science Beginner Course,beginner,14.16699168474149,NSSTA,Data Science
+COURSE_41,Leadership Beginner Course,beginner,21.232834247991278,ARAMBH Platform Catalog,Leadership
+COURSE_42,Communication Beginner Course,beginner,38.899501226117465,iGOT,Communication
+COURSE_43,Statistics Intermediate Course,intermediate,6.775390268182596,ARAMBH Platform Catalog,Statistics
+COURSE_44,Leadership Intermediate Course,intermediate,20.6044819059256,iGOT,Leadership
+COURSE_45,Data Engineering Beginner Course,beginner,25.73970244335319,iGOT,Data Engineering
+COURSE_46,Statistics Intermediate Course,intermediate,18.463543418350575,iGOT,Statistics
+COURSE_47,Communication Beginner Course,beginner,15.416523786394773,ARAMBH Platform Catalog,Communication
+COURSE_48,Project Management Beginner Course,beginner,25.659927393149598,iGOT,Project Management
+COURSE_49,Project Management Intermediate Course,intermediate,4.521301032121924,ARAMBH Platform Catalog,Project Management
+COURSE_50,Data Science Beginner Course,beginner,8.274221905594315,ARAMBH Platform Catalog,Data Science
+COURSE_51,Leadership Intermediate Course,intermediate,27.425010111849016,NSSTA,Leadership
+COURSE_52,Statistics Intermediate Course,intermediate,9.83333523271958,NSSTA,Statistics
+COURSE_53,Communication Advanced Course,advanced,16.50530882241337,NSSTA,Communication
+COURSE_54,Statistics Advanced Course,advanced,27.35191456453195,ARAMBH Platform Catalog,Statistics
+COURSE_55,Data Science Beginner Course,beginner,22.116470979275068,iGOT,Data Science
+COURSE_56,Leadership Beginner Course,beginner,7.823242156741511,ARAMBH Platform Catalog,Leadership
+COURSE_57,Communication Intermediate Course,intermediate,10.432239345117615,iGOT,Communication
+COURSE_58,Communication Intermediate Course,intermediate,35.422817384384246,NSSTA,Communication
+COURSE_59,Data Science Beginner Course,beginner,28.313955368938082,NSSTA,Data Science
+COURSE_60,Communication Advanced Course,advanced,31.415146288447332,NSSTA,Communication
+COURSE_61,Data Science Beginner Course,beginner,36.04361335255609,iGOT,Data Science
+COURSE_62,Leadership Beginner Course,beginner,37.66520425585336,ARAMBH Platform Catalog,Leadership
+COURSE_63,Data Engineering Beginner Course,beginner,12.909190553431344,iGOT,Data Engineering
+COURSE_64,Project Management Beginner Course,beginner,39.78384104182201,ARAMBH Platform Catalog,Project Management
+COURSE_65,Communication Beginner Course,beginner,13.69058822821144,NSSTA,Communication
+COURSE_66,Leadership Intermediate Course,intermediate,23.164035530083392,NSSTA,Leadership
+COURSE_67,Leadership Intermediate Course,intermediate,10.768010925617782,iGOT,Leadership
+COURSE_68,Project Management Advanced Course,advanced,19.982943965418748,NSSTA,Project Management
+COURSE_69,Leadership Intermediate Course,intermediate,20.60284663110249,NSSTA,Leadership
+COURSE_70,Data Science Beginner Course,beginner,29.17563249519871,NSSTA,Data Science
+COURSE_71,Communication Beginner Course,beginner,26.173419540379545,ARAMBH Platform Catalog,Communication
+COURSE_72,Communication Advanced Course,advanced,38.20321450310091,ARAMBH Platform Catalog,Communication
+COURSE_73,Project Management Beginner Course,beginner,1.6028080446258297,ARAMBH Platform Catalog,Project Management
+COURSE_74,Data Science Intermediate Course,intermediate,23.319406297662695,ARAMBH Platform Catalog,Data Science
+COURSE_75,Communication Beginner Course,beginner,16.018811415475085,NSSTA,Communication
+COURSE_76,Data Science Beginner Course,beginner,7.610217120757607,ARAMBH Platform Catalog,Data Science
+COURSE_77,Statistics Advanced Course,advanced,28.14516207032395,iGOT,Statistics
+COURSE_78,Statistics Intermediate Course,intermediate,39.61210015406627,iGOT,Statistics
+COURSE_79,Leadership Beginner Course,beginner,13.57947980530542,ARAMBH Platform Catalog,Leadership
+COURSE_80,Data Science Intermediate Course,intermediate,15.020154897570452,ARAMBH Platform Catalog,Data Science
+COURSE_81,Statistics Advanced Course,advanced,32.59442239248805,ARAMBH Platform Catalog,Statistics
+COURSE_82,Data Engineering Beginner Course,beginner,1.2022096481854843,ARAMBH Platform Catalog,Data Engineering
+COURSE_83,Communication Intermediate Course,intermediate,28.37670821305043,iGOT,Communication
+COURSE_84,Communication Advanced Course,advanced,2.0770541030744836,iGOT,Communication
+COURSE_85,Statistics Beginner Course,beginner,27.209019276512777,NSSTA,Statistics
+COURSE_86,Data Science Beginner Course,beginner,39.29179464411071,iGOT,Data Science
+COURSE_87,Statistics Advanced Course,advanced,10.759803060118697,iGOT,Statistics
+COURSE_88,Project Management Beginner Course,beginner,21.94621466066956,ARAMBH Platform Catalog,Project Management
+COURSE_89,Data Science Advanced Course,advanced,11.590173716969934,ARAMBH Platform Catalog,Data Science
+COURSE_90,Communication Advanced Course,advanced,8.580821325800049,iGOT,Communication
+COURSE_91,Leadership Intermediate Course,intermediate,29.3175620151838,ARAMBH Platform Catalog,Leadership
+COURSE_92,Statistics Intermediate Course,intermediate,13.595302444708592,ARAMBH Platform Catalog,Statistics
+COURSE_93,Leadership Beginner Course,beginner,4.059798872348372,ARAMBH Platform Catalog,Leadership
+COURSE_94,Statistics Advanced Course,advanced,33.603224699976025,ARAMBH Platform Catalog,Statistics
+COURSE_95,Communication Beginner Course,beginner,7.758478482762985,ARAMBH Platform Catalog,Communication
+COURSE_96,Statistics Beginner Course,beginner,4.661058313170378,ARAMBH Platform Catalog,Statistics
+COURSE_97,Data Engineering Beginner Course,beginner,38.23974594586457,NSSTA,Data Engineering
+COURSE_98,Data Engineering Intermediate Course,intermediate,17.364402434683807,iGOT,Data Engineering
+COURSE_99,Leadership Intermediate Course,intermediate,1.5613460565604789,iGOT,Leadership
+COURSE_100,Communication Beginner Course,beginner,2.5884232904398354,iGOT,Communication
+COURSE_101,Project Management Intermediate Course,intermediate,19.492779334405682,iGOT,Project Management
+COURSE_102,Statistics Beginner Course,beginner,19.46539906044206,ARAMBH Platform Catalog,Statistics
+COURSE_103,Project Management Beginner Course,beginner,16.541684641497564,iGOT,Project Management
+COURSE_104,Project Management Intermediate Course,intermediate,2.7668563811097364,NSSTA,Project Management
+COURSE_105,Statistics Intermediate Course,intermediate,20.62231408462342,ARAMBH Platform Catalog,Statistics
+COURSE_106,Data Engineering Intermediate Course,intermediate,25.01819541120664,NSSTA,Data Engineering
+COURSE_107,Statistics Beginner Course,beginner,23.845247669665067,NSSTA,Statistics
+COURSE_108,Communication Intermediate Course,intermediate,16.138627122054352,ARAMBH Platform Catalog,Communication
+COURSE_109,Data Science Advanced Course,advanced,33.00493955401426,NSSTA,Data Science
+COURSE_110,Data Science Advanced Course,advanced,36.30867503628649,ARAMBH Platform Catalog,Data Science
+COURSE_111,Data Engineering Beginner Course,beginner,15.713104245891058,ARAMBH Platform Catalog,Data Engineering
+COURSE_112,Leadership Intermediate Course,intermediate,14.125614380660334,iGOT,Leadership
+COURSE_113,Data Engineering Advanced Course,advanced,1.9076054936972087,iGOT,Data Engineering
+COURSE_114,Leadership Beginner Course,beginner,5.6084282772445935,ARAMBH Platform Catalog,Leadership
+COURSE_115,Statistics Intermediate Course,intermediate,35.22140852755506,ARAMBH Platform Catalog,Statistics
+COURSE_116,Data Engineering Advanced Course,advanced,22.370903446675406,ARAMBH Platform Catalog,Data Engineering
+COURSE_117,Data Science Intermediate Course,intermediate,23.4610584350653,NSSTA,Data Science
+COURSE_118,Communication Beginner Course,beginner,31.280105468937876,NSSTA,Communication
+COURSE_119,Project Management Intermediate Course,intermediate,10.305277531823267,NSSTA,Project Management
+COURSE_120,Data Engineering Intermediate Course,intermediate,10.291209943755199,iGOT,Data Engineering
+COURSE_121,Data Science Intermediate Course,intermediate,20.36588643664003,ARAMBH Platform Catalog,Data Science
+COURSE_122,Project Management Beginner Course,beginner,4.899410599312672,ARAMBH Platform Catalog,Project Management
+COURSE_123,Data Science Advanced Course,advanced,14.841302428046104,iGOT,Data Science
+COURSE_124,Communication Intermediate Course,intermediate,25.64165127462217,ARAMBH Platform Catalog,Communication
+COURSE_125,Data Engineering Beginner Course,beginner,13.817917269426722,NSSTA,Data Engineering
+COURSE_126,Data Engineering Intermediate Course,intermediate,31.871582705308093,ARAMBH Platform Catalog,Data Engineering
+COURSE_127,Data Engineering Advanced Course,advanced,38.995680132842,iGOT,Data Engineering
+COURSE_128,Statistics Beginner Course,beginner,35.62046312757369,NSSTA,Statistics
+COURSE_129,Leadership Beginner Course,beginner,6.576675600060598,iGOT,Leadership
+COURSE_130,Statistics Intermediate Course,intermediate,4.943784368788819,NSSTA,Statistics
+COURSE_131,Project Management Intermediate Course,intermediate,3.8377572482035474,iGOT,Project Management
+COURSE_132,Leadership Intermediate Course,intermediate,4.172602445034091,ARAMBH Platform Catalog,Leadership
+COURSE_133,Project Management Advanced Course,advanced,15.596561034488692,ARAMBH Platform Catalog,Project Management
+COURSE_134,Project Management Advanced Course,advanced,37.94269451797049,ARAMBH Platform Catalog,Project Management
+COURSE_135,Data Engineering Intermediate Course,intermediate,15.674123835705714,NSSTA,Data Engineering
+COURSE_136,Leadership Intermediate Course,intermediate,22.777765739696395,NSSTA,Leadership
+COURSE_137,Statistics Advanced Course,advanced,5.336701809939902,NSSTA,Statistics
+COURSE_138,Data Engineering Beginner Course,beginner,19.277765037770923,iGOT,Data Engineering
+COURSE_139,Communication Beginner Course,beginner,5.58352362430709,ARAMBH Platform Catalog,Communication
+COURSE_140,Data Science Intermediate Course,intermediate,10.262752380406328,ARAMBH Platform Catalog,Data Science
+COURSE_141,Communication Beginner Course,beginner,34.875365999388954,iGOT,Communication
+COURSE_142,Data Engineering Advanced Course,advanced,1.4740245129028373,ARAMBH Platform Catalog,Data Engineering
+COURSE_143,Data Engineering Beginner Course,beginner,2.692630548628738,ARAMBH Platform Catalog,Data Engineering
+COURSE_144,Leadership Advanced Course,advanced,10.866616551580403,NSSTA,Leadership
+COURSE_145,Communication Beginner Course,beginner,7.482401844460864,ARAMBH Platform Catalog,Communication
+COURSE_146,Project Management Beginner Course,beginner,39.83742362614546,iGOT,Project Management
+COURSE_147,Project Management Beginner Course,beginner,29.74692752787775,NSSTA,Project Management
+COURSE_148,Communication Advanced Course,advanced,3.2566920125505883,iGOT,Communication
+COURSE_149,Communication Beginner Course,beginner,14.090742527081565,iGOT,Communication
+COURSE_150,Communication Intermediate Course,intermediate,16.142466975605014,iGOT,Communication
+COURSE_151,Communication Beginner Course,beginner,39.001397498980495,NSSTA,Communication
+COURSE_152,Project Management Beginner Course,beginner,11.910776779588883,ARAMBH Platform Catalog,Project Management
+COURSE_153,Communication Intermediate Course,intermediate,11.567348058090065,ARAMBH Platform Catalog,Communication
+COURSE_154,Project Management Beginner Course,beginner,37.68074125827995,NSSTA,Project Management
+COURSE_155,Data Engineering Intermediate Course,intermediate,17.311478415334136,iGOT,Data Engineering
+COURSE_156,Statistics Intermediate Course,intermediate,7.428536184343037,ARAMBH Platform Catalog,Statistics
+COURSE_157,Project Management Advanced Course,advanced,39.50376904328284,ARAMBH Platform Catalog,Project Management
+COURSE_158,Leadership Intermediate Course,intermediate,15.854743408609838,iGOT,Leadership
+COURSE_159,Leadership Advanced Course,advanced,33.69481948373438,iGOT,Leadership
+COURSE_160,Data Science Beginner Course,beginner,11.662875805297544,NSSTA,Data Science
+COURSE_161,Project Management Intermediate Course,intermediate,21.83950472614906,ARAMBH Platform Catalog,Project Management
+COURSE_162,Project Management Advanced Course,advanced,23.820831760693405,ARAMBH Platform Catalog,Project Management
+COURSE_163,Data Engineering Intermediate Course,intermediate,15.736171421755671,ARAMBH Platform Catalog,Data Engineering
+COURSE_164,Project Management Beginner Course,beginner,10.80625514096014,ARAMBH Platform Catalog,Project Management
+COURSE_165,Data Engineering Beginner Course,beginner,35.2506060316885,iGOT,Data Engineering
+COURSE_166,Communication Beginner Course,beginner,1.8652049391817636,iGOT,Communication
+COURSE_167,Statistics Beginner Course,beginner,33.423488112437546,iGOT,Statistics
+COURSE_168,Communication Advanced Course,advanced,38.7509768521531,iGOT,Communication
+COURSE_169,Project Management Intermediate Course,intermediate,24.008279988367807,NSSTA,Project Management
+COURSE_170,Data Engineering Intermediate Course,intermediate,28.45911095586972,NSSTA,Data Engineering
+COURSE_171,Project Management Intermediate Course,intermediate,39.23804627860274,iGOT,Project Management
+COURSE_172,Statistics Intermediate Course,intermediate,22.6378087331468,NSSTA,Statistics
+COURSE_173,Statistics Beginner Course,beginner,21.04559007723262,NSSTA,Statistics
+COURSE_174,Communication Beginner Course,beginner,21.420488764585436,ARAMBH Platform Catalog,Communication
+COURSE_175,Data Engineering Intermediate Course,intermediate,18.914525509900724,ARAMBH Platform Catalog,Data Engineering
+COURSE_176,Statistics Intermediate Course,intermediate,3.5832031362227683,ARAMBH Platform Catalog,Statistics
+COURSE_177,Statistics Intermediate Course,intermediate,14.549122920791154,iGOT,Statistics
+COURSE_178,Leadership Intermediate Course,intermediate,14.320965207805257,NSSTA,Leadership
+COURSE_179,Data Science Beginner Course,beginner,23.805878132016993,NSSTA,Data Science
+COURSE_180,Project Management Intermediate Course,intermediate,8.022623621622643,ARAMBH Platform Catalog,Project Management
+COURSE_181,Leadership Advanced Course,advanced,21.094206139704223,iGOT,Leadership
+COURSE_182,Data Engineering Beginner Course,beginner,2.5938760343926757,ARAMBH Platform Catalog,Data Engineering
+COURSE_183,Statistics Beginner Course,beginner,7.903408886793126,ARAMBH Platform Catalog,Statistics
+COURSE_184,Project Management Beginner Course,beginner,18.970371953276306,iGOT,Project Management
+COURSE_185,Project Management Beginner Course,beginner,20.63327356333942,ARAMBH Platform Catalog,Project Management
+COURSE_186,Leadership Beginner Course,beginner,32.17700555745266,ARAMBH Platform Catalog,Leadership
+COURSE_187,Project Management Beginner Course,beginner,35.069566340164315,NSSTA,Project Management
+COURSE_188,Data Engineering Beginner Course,beginner,34.863743174387885,ARAMBH Platform Catalog,Data Engineering
+COURSE_189,Leadership Beginner Course,beginner,9.164623610131702,NSSTA,Leadership
+COURSE_190,Project Management Beginner Course,beginner,30.63826094856584,iGOT,Project Management
+COURSE_191,Statistics Intermediate Course,intermediate,2.4306449127333183,NSSTA,Statistics
+COURSE_192,Leadership Advanced Course,advanced,20.95542024251098,NSSTA,Leadership
+COURSE_193,Communication Beginner Course,beginner,18.449082306114732,NSSTA,Communication
+COURSE_194,Leadership Beginner Course,beginner,11.500486007025858,ARAMBH Platform Catalog,Leadership
+COURSE_195,Communication Beginner Course,beginner,13.561087457743954,NSSTA,Communication
+COURSE_196,Project Management Beginner Course,beginner,5.670723140950797,ARAMBH Platform Catalog,Project Management
+COURSE_197,Data Engineering Intermediate Course,intermediate,27.484990446635095,NSSTA,Data Engineering
+COURSE_198,Data Science Beginner Course,beginner,4.389891235409523,NSSTA,Data Science
+COURSE_199,Project Management Intermediate Course,intermediate,30.07213949318887,ARAMBH Platform Catalog,Project Management
